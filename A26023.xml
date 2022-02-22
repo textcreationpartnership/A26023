@@ -1,0 +1,1579 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bibliotheca Ashmoliana a catalogue of the library of the learned and famous Elias Ashmole, Esq. : containing not only the rarest books of history, philosophy, genealogies, heraldry, coins, &amp;c., but of the most abstruse parts of human learning : about 40 volumes of tracts and pamphlets neatly bound, and also 30 volumes of mss., many of them written on velum : to be sold by auction on Thursday next, the 22th day of this instant February, 1693/4 [i.e. 1694], at Rolls's Auction House, in Petty-Canon Alley, in St. Paul's Church-yard / by Edward Millington.</title>
+            <author>Millington, Edward, d. 1703.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1694</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 101 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A26023</idno>
+            <idno type="STC">Wing A3981</idno>
+            <idno type="STC">ESTC R35729</idno>
+            <idno type="EEBO-CITATION">15553596</idno>
+            <idno type="OCLC">ocm 15553596</idno>
+            <idno type="VID">103692</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A26023)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 103692)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1582:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Bibliotheca Ashmoliana a catalogue of the library of the learned and famous Elias Ashmole, Esq. : containing not only the rarest books of history, philosophy, genealogies, heraldry, coins, &amp;c., but of the most abstruse parts of human learning : about 40 volumes of tracts and pamphlets neatly bound, and also 30 volumes of mss., many of them written on velum : to be sold by auction on Thursday next, the 22th day of this instant February, 1693/4 [i.e. 1694], at Rolls's Auction House, in Petty-Canon Alley, in St. Paul's Church-yard / by Edward Millington.</title>
+                  <author>Millington, Edward, d. 1703.</author>
+               </titleStmt>
+               <extent>[2], 18 [i.e. 19], [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Catalogues are distributed by Mr. Whitwood ... Mr. Feltham ... Mr. Hargrave ... Mr. Jay ...,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1694.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ashmole, Elias, 1617-1692 --  Library.</term>
+               <term>Catalogs, Booksellers' --  England --  London.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:103692:1" rendition="simple:additions"/>
+            <p>Bibliotheca Aſhmoliana A CATALOGUE OF THE LIBRARY OF THE Learned and famous <hi>Elias Aſhmole,</hi> 
+               <abbr>Eſq</abbr> CONTAINING, Not only the Rareſt Books of <hi>Hiſtory, Philoſophy, Genealogies, Heraldry, Coins,</hi> &amp;c. BUT OF The moſt Abſtruſe Parts of Humane Learning:</p>
+            <p>Together with <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 40 Volumes of Tracts and Pamphlets neatly Bound, and alſo 30 Volumes of MSS. many of them written on Velum.</p>
+            <p>To be Sold by <hi>Auction</hi> on <hi>Thurſday</hi> next, the 22th day of this inſtant <hi>February,</hi> 1693/4. at <hi>Rolls</hi>'s <hi>Auction-Houſe,</hi> in <hi>Petty-Canon Alley,</hi> in St. <hi>Paul</hi>'s Church-yard.</p>
+            <p>By <hi>Edward Millington.</hi>
+            </p>
+            <p>CATALOGUES are Diſtributed by Mr. <hi>Whitwood</hi> in <hi>Little-Britain,</hi> Mr. <hi>Feltham</hi> in <hi>Weſtminſter-hall,</hi> Mr. <hi>Hargrave</hi> in <hi>Holborn,</hi> Mr. <hi>Jay</hi> under the <hi>South-Piazza</hi> of the <hi>Royal Exchange,</hi> and at the <hi>Auction-houſe</hi> aboveſaid. The Books may be viewed 2 days befor<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> begins.</p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:103692:2" rendition="simple:additions"/>
+            <head>The Conditions of Sale.</head>
+            <p n="1">I. HE that bids moſts is the Buyer; but if any difference ariſe which the Company can't decide, the Book ſhall be re-expoſed to Sale.</p>
+            <p n="2">II. The Books, for ought we know, are Perfect; but if any appear otherwiſe, before they are taken away, the Buyer is at his liberty of taking or refuſing them.</p>
+            <p n="3">III. That every Buyer ſhall give in his Name and Place of Abode, and pay alſo Five Shillings in the Pound for what he ſhall buy, if demanded, and be obliged to take away his Books within one Week after the Sale is ended; during which time Attendance will be given for that purpoſe.</p>
+            <p>
+               <hi>The Books may be viewed three days before the Sale begins, which will be on</hi> Thurſday, <hi>February</hi> 22. <hi>at Three a Clock in the Afternoon.</hi> 160<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.</p>
+         </div>
+      </front>
+      <body>
+         <div type="catalogue">
+            <div type="part">
+               <pb n="1" facs="tcp:103692:2"/>
+               <head>Libri Miſcellanei in Folio.</head>
+               <list>
+                  <item>1 CAtalogus Impreſ. Librorum Bibliothecae Bodleianae, à Th. Hyde. <hi>Oxon.</hi> 1676</item>
+                  <item>2 Cauſſin. de inſtit. illuſtr. viror. &amp; Ephemeris Aſtrolog. &amp; Hiſtor. <hi>Par.</hi> 1650</item>
+                  <item>3 Marſ. Ficini Platonici Med. &amp; Theolog. Opera in 2 Vol. <hi>Paris</hi> 1641</item>
+                  <item>4 Pet. Gaſſendi de vita, moribus Placitiſque Epicuri in 3 Vol. <hi>Lugd.</hi> 1649</item>
+                  <item>5 Cl. Reyneri de antiquitate Benedictinorum in Anglia <hi>Duac.</hi> 1626</item>
+                  <item>6 Con. Lycoſthenis prodigiorum ac oſtentorum Chronicon figuris <hi>Baſ.</hi>
+                  </item>
+                  <item>7 S. Bubali in Aquinatem de Angelis <hi>Lugd.</hi> 1622</item>
+                  <item>8 Car. du Freſne hiſtoria Byzantina cum duplici Comment. &amp; Fig. <hi>Par.</hi> 1680</item>
+                  <item>9 Deſcriptio plant. omn. tam domeſtic. quam exotic. cum Fig. à L. Thurneſſero.</item>
+                  <item>10 Vota Oxonienſia pro ſereniſſimis Gulielmo &amp; Maria in Corio Turcico 1689</item>
+                  <item>11 J. Hen. Alſtedii Encyclopaedia, in 2 Vol. <hi>Lugd.</hi> 1649</item>
+                  <item>12 Hen. Spelmanni Gloſſarium <hi>Lond.</hi> 1626</item>
+                  <item>13 Guil. Gilberti de Magnete ibid. 1600</item>
+                  <item>14 A Sea-Waggoner, curiouſly coloured, in Dutch.</item>
+                  <item>15 Joann. Funccii Chronologia cum Comment. 1570</item>
+                  <item>16 Fr. Willughbeii hiſtoria piſcium, cum multis Figuris <hi>Oxon.</hi> 1686</item>
+                  <item>17 Ven. Bedae de natura rerum &amp; temporum ratione <hi>Baſ.</hi>
+                  </item>
+                  <item>18 Statuta Hoſpitalis Hieruſalem cum multis figuris</item>
+                  <item>19 Geo. Agricolae de re metallica <hi>Baſ.</hi> 1621</item>
+                  <item>20 Eadmeri Monachi Cantuarienſis hiſtoriae nov. <hi>Lond.</hi> 1623</item>
+                  <item>21 Florileg. Novum, i. e. var. plantarum ac florum Eicones ad vivum</item>
+                  <item>22 Ol. Wormii Faſti Danici <hi>Haf.</hi> 1626</item>
+                  <item>23 Jac. Lauri Roma ſeu antiquae urbis ſplendor <hi>Romae</hi> 1612</item>
+                  <item>24 Bar. Briſſonius de formulis &amp; ſolemnibus Pop. Rom. Verbis <hi>Par.</hi> 1583</item>
+                  <item>25 Hiſtoria &amp; Antiquitates Univerſitatis Oxonienſis à Ant. Wood <hi>Oxon.</hi> 1674</item>
+                  <item>26 Euſebii, Socratis, Sozomen. hiſtoria eccleſiaſtica <hi>Froben.</hi> 1549</item>
+                  <item>27 Joan. Scapulae Lexicon Graeco Latinum cum Indicibus Graec. Lat. <hi>Lugd.</hi> 1663</item>
+                  <item>28 Guil. Cambdeni Britannia ſive Deſcript. Ang. Scot. &amp; Hibern. Charta magna. 1659</item>
+                  <item>29 Dictionarium Hiſtoricum, Geographicum &amp; Poeticum, à N. Lloydio 1686</item>
+                  <item>30 Chr. Helvici theatrum hiſtoricum &amp; chronologicum 1651</item>
+                  <item>31 M. Muffet de Infectis, ſive minimorum animalium theatrum (caret titulo.)</item>
+                  <item>32 Biblia Sacra à Fran Junio &amp; Im. Tremilio 1607</item>
+                  <item>33 Hiſtoria Plantarum, ſpecies hactenus editas aliaſque inſuper multas noviter inventas &amp; Deſcriptas complectens, à Joan. Raio in 2 Vol. 1686</item>
+                  <item>34 Hiſtoria Inſignium illuſtrium, Opus Heraldicum cum fig. à P. J. Spenero <hi>Franc.</hi> 1680</item>
+                  <item>35 Marmora Oxonienſia ex Arundellianis Seldenianis Aliiſque conflata <hi>Oxon.</hi> 1976</item>
+                  <item>36 Chronicus Canon Aegyptiac. Ebraic. Graec. &amp; Diſquiſition. à J. Marſham. <hi>Lond.</hi> 1672</item>
+                  <item>37 Divinus Pymander Herm. Mercur. Triſmegiſti cum Comment. H. Roſſelii. <hi>Col.</hi> 1630</item>
+                  <item>38 Claud. Cotaeri de jure &amp; privilegiis militum</item>
+                  <item>39 Ariſtotelis hiſtoria animalium, problem. &amp;c. cum Averrois Comment.</item>
+                  <item>40 Marc. Velſeri Opera hiſt. &amp; philologica, ſacra &amp; profana, cum Figuris <hi>Norim.</hi> 1682</item>
+                  <item>41 Hiſtoria della Caſa di Brandenburgo per Gio Leti in 2 Vol. <hi>Amſt.</hi> 1687</item>
+                  <item>42 Hiſtoria generale della Monarchia Spagnuola Antica è Moderna <hi>Ven.</hi> 1674</item>
+                  <item>43 Fran. Zazzera della Nobilta del Italia in 2 Vol. <hi>Niap.</hi> 1615</item>
+                  <item>44 Geo. Torriano's Italian and Engliſh Dictionary, laſt Edition 1688</item>
+                  <item>45 Geneal. Imp. Reg. Duc. Comit. &amp;c. ab an. 1400. ad 1664. in 3 Vol. à N. Ritterſhuſio</item>
+                  <item>46 Ja. W. Imhoff. procerum notitia hiſtorico heraldico genealogica <hi>Tub.</hi> 1684</item>
+                  <item>
+                     <pb n="2" facs="tcp:103692:3"/>47 L. Bryeri theſaurus gemmarum &amp; numiſmatum cum multis Figuris 1685</item>
+                  <item>48 Comment. in Geneſim doctae, utiles &amp; lectu jucundae, à Guil. Hamero</item>
+                  <item>49 Ol. Vereli manuductio compendioſa ad Runographiam Scandiam antiqu. <hi>Upſ.</hi> 1645</item>
+                  <item>50 Artis Cabaliſticae, hoc eſt reconditae Theologiae &amp; Philoſophiae Scriptorum Joan. Braceſchi, P. Tauladami, Geber, Rog. Bacon, Roſarius Minor, Alb. Magnus, Raym. Lully, Joan. de Rupeſciſſa, de verae Alchemiae artiſque metallicae, &amp;c.</item>
+                  <item>51 V. Fort. Plempii fundamenta medicinae <hi>Lov.</hi> 1644</item>
+                  <item>52 Hippocratis opera, gr. lat. ab And. Faeſio 1624</item>
+                  <item>53 Joan. Gorraei opera omnia <hi>Paris</hi> 1622</item>
+                  <item>54 Antidotarium ſpeciale, à J. Jac. Weckero <hi>Baſ.</hi>
+                  </item>
+                  <item>55 Pharmacopoeia Londinenſis, Collegarum, (charta magna.) 1650</item>
+                  <item>56 Miſcellanea eruditae antiquitatis illuſtr. virorum, à J. Sponio, cum fig. <hi>Lugd.</hi> 1685</item>
+                  <item>57 Romae antiquae &amp; novae theatrum per Joach. à Sandrart. <hi>Norim.</hi> 1684</item>
+                  <item>58 Ars pictoria, cum multis figuris à Joach. de Sandrart. <hi>Norim.</hi> 1683</item>
+                  <item>59 Excell. familiarum in Gallia genealog. &amp; notis hiſtor. à Ja. W. Imhoff. <hi>Nor.</hi> 1687</item>
+                  <item>60 Elfredi magni Anglor. Regis, vita à Jo. Spelman. in corio Turcico 1678</item>
+                  <item>61 Fran. Med. Biragi Imperatorum Romanorum numiſmata <hi>Med.</hi> 1683</item>
+                  <item>62 Plantarum hiſtoria univerſalis, ſeu herbarum diſtrib. nova, à Rob. Morriſon. 1680</item>
+                  <item>63 Accurat. orbis antiq. delineatio ſive Geog. ſac. &amp; profana, à Geo. Hornio. <hi>Amſt.</hi> 1654</item>
+                  <item>64 Fontin. ſeu pont. urb. Rom. accurat. delineat. à Falti, cum mul. fig. <hi>Typ. Sandrart.</hi> 1685</item>
+                  <item>65 Della fabrica dell mondo, D. M. Franc. Alunno <hi>in Venet.</hi>
+                  </item>
+                  <item>66 P. Loniceri theatrum hiſtoricum illuſtrium exemplorum <hi>Franc.</hi>
+                  </item>
+                  <item>67 Lexicon Graeco Latinum novum, à Joan. Scapula <hi>Baſ.</hi>
+                  </item>
+                  <item>68 A. Paracelſi Chirurgia magna, nunc recens à J. Dalhemio</item>
+                  <item>69 Concordantiae Bibliorum maximae &amp; abſolutiſſimae</item>
+                  <item>70 Avicennae Med. opera omnia <hi>in Vet.</hi>
+                  </item>
+                  <item>71 Joan. Calvini epiſtolae &amp; reſponſa <hi>Gen.</hi>
+                  </item>
+                  <item>72 L. Vallae elegantiarum</item>
+                  <item>73 Lexicon Graeco Latinum à Hadrian. Junior. <hi>Baſ.</hi>
+                  </item>
+                  <item>74 Flores hiſtoriarum Math. Weſtmonaſterienſis</item>
+                  <item>75 Provinciale ſeu Conſtitutiones Angliae, à Guil. Lindwood <hi>Oxon.</hi> 1679</item>
+                  <item>76 M. Malpighii opera omnia figuris elegantiſſimis in aes inciſis 1686</item>
+                  <item>77 Herodoti Halicarnaſſaei hiſtoriarum, gr. lat. <hi>Lond.</hi> 1679</item>
+                  <item>78 Sir Th. P. Blount cenſura celebriorum Authorum ib. 1690</item>
+                  <item>79 Juſtini Martyris opera gr. &amp; lat. <hi>Col.</hi> 1686</item>
+               </list>
+            </div>
+            <div type="part">
+               <head>Libri Miſcellanei in Quarto.</head>
+               <list>
+                  <item>1 ANT. Sanderi hiſtoria Gandavenſium Rerum <hi>Brux.</hi> 1627</item>
+                  <item>2 J. Dan. Majoris de nummis Rhedigerianis 1681</item>
+                  <item>3 De tribus Dagobertis, Francorum Regibus Diatriba, Go. Henſchemii <hi>Ant.</hi> 1655</item>
+                  <item>4 Alex. Nevilli de furoribus Norfolcienſium Ketto Duce</item>
+                  <item>5 Marmora Arundelliana ſive ſaxa Graecè inciſa à Joan. Selden. 1629</item>
+                  <item>6 Speculum Aſtrologiae qd. attinet ad judiciariam ration. &amp;c. à Fra. Junctino.</item>
+                  <item>7 Nic. Winckleri chronica herbarum, florum, ſeminum, &amp;c.</item>
+                  <item>8 Joan. de Monte Regio Tabulae Directionum <hi>Wittenberg</hi>
+                  </item>
+                  <item>9 Pet. Bungi numerorum myſteria <hi>Paris</hi> 1618</item>
+                  <item>10 Hiſtoire Genealogique de la Maiſon de France, per St. Marthe</item>
+                  <item>11 Joan. Hardvini nummi antiqui populorum &amp; urbium illuſtrati <hi>Par.</hi> 1684</item>
+                  <item>12 Fran. Geo. Veneti in S. Script. &amp; philoſoph. tria millia Probl. ibid. 1621</item>
+                  <item>13 Numiſmata Imperatorum Romanorum per Joan. Vaillant. ibid. 1682</item>
+                  <item>
+                     <pb n="3" facs="tcp:103692:3"/>14 Guil. Harvey de generatione animalium 1652</item>
+                  <item>15 Biblia ad vetuſtiſſima exemplaria caſtigata <hi>Chriſt. Flantin.</hi>
+                  </item>
+                  <item>16 Val. Nabod enarratio elementorum aſtrologiae <hi>Col.</hi>
+                  </item>
+                  <item>17 Jamblichi de vita Pythagorae gr. lat <hi>Comelin.</hi>
+                  </item>
+                  <item>18 De Pythagoraea animarum tranſmigratione, à Pa. Gaudentio 1641</item>
+                  <item>19 Pet. Lombardus de regno Hiberniae Sanctorum inſula Comment. 1631</item>
+                  <item>20 Regis Angliae Henrici adverſus Mart. Lutherum 1561</item>
+                  <item>21 And. Argoli Ephemerides ab anno 1640 ad 1700 in 3 Vol.</item>
+                  <item>22 — Primi Mobilis Tabulae in 2 Vol. 1644</item>
+                  <item>23 Ph. Judaei de mundi Fabricatione <hi>Ant.</hi>
+                  </item>
+                  <item>24 J. Chr. Wagenſeilii exercitationes ſex varii argumenti lat. &amp; heb. 1687</item>
+                  <item>25 Meleti de natura ſtructuraque hominis. Polemon de nat. ſignorum interpretatio.</item>
+                  <item>26 De re heraldica qui Latinè, Gall. Ital. Hiſpan. Anglicè ſcripſerunt à Tho. Gow. 1674</item>
+                  <item>27 De univerſo parvo mixto homine à Mich. Zanardi <hi>Col.</hi>
+                  </item>
+                  <item>28 Anatomia vitalis Microcoſmi à J. S. Kozak. 1636</item>
+                  <item>29 Notitia Eccleſiarum Belgii per Aub. Miraeum <hi>Ant.</hi> 1630</item>
+                  <item>30 G. J. Voſſii de quatuor artibus popularibus <hi>Amſt.</hi> 1650</item>
+                  <item>31 Joan. Wierii de praeſtig. demonum (caret titulo)</item>
+                  <item>33 Ed. Pocock. hiſtoria compendioſa dynaſtiarum in Lat. &amp; Arab. 1663</item>
+                  <item>34 Palladii de vita S. Jo. Chryſoſtomi in Gr. Lat. <hi>Par.</hi> 1680</item>
+                  <item>35 Oculus, hoc eſt fundamenta Opticum à Ch. Scheinerr. <hi>Lond.</hi> 1652</item>
+                  <item>36 Ez. Spanhemii de praeſtantia &amp; uſu numiſmatum antiquorum <hi>Amſt.</hi> 1672</item>
+                  <item>37 Synopſis Optica cum figuris à Ho. Fabro <hi>Lugd.</hi> 1667</item>
+                  <item>38 Recueil des Roys de France leurs Couronnes &amp; Maiſons <hi>Pariſ.</hi>
+                  </item>
+                  <item>39 Jo. Micrelii Lexicon philoſophicum cum figuris <hi>Jen.</hi> 1653</item>
+                  <item>40 Regimen ſanitatis Salernitanum cum notis</item>
+                  <item>41 Ol. Boricchii diſſertationes de Poetis <hi>Franc.</hi> 1683</item>
+                  <item>42 Joſ. Scaliger. in Guilandinum de Papyro, notitia Galliae, de Europaeorum Linguis, numiſmatis argentei, Orphei Hymni, epigram. poem. &amp; epiſtolae</item>
+                  <item>43 Les Caeſars de d'Empereur Julien, avec des Remarques, &amp; des Preuves illuſtres par les Medailles &amp; autres Antiens Monumens <hi>Paris</hi> 1683</item>
+                  <item>44 T. B. Eugubini de ruinis gentium &amp; regnorum adverſ. imp. politicos <hi>Rom.</hi> 1596</item>
+                  <item>45 Leſlaei Ep. Roſſenſis de moribus &amp; geſtis Scotorum <hi>Rom.</hi>
+                  </item>
+                  <item>46 J. Crellii ethica Ariſtotelica &amp; Chriſtiana <hi>Eleutherop.</hi>
+                  </item>
+                  <item>47 Theoph. Paracelſi opera omnia genuina</item>
+                  <item>48 Concordantiae Particularum Hebr. &amp; Chaldaicarum, à Ch. Noldio 1679</item>
+                  <item>49 Pearſoni Epiſc. Ceſtr. Opera Chronologica <hi>Lond.</hi> 1688</item>
+                  <item>50 Aſtroſophia univerſa natur. experim. &amp; ration. vindic. ab A. F. de Bonattis <hi>Pat.</hi> 1687</item>
+                  <item>51 Th. Eraſti Med. celeb. tractat. contra Paracelſum, cum aliis opuſc. 4 Vol. <hi>Baſil.</hi>
+                  </item>
+               </list>
+            </div>
+            <div type="part">
+               <head>Libri Miſcellanei in Octavo.</head>
+               <list>
+                  <item>1 LE. Allatius de Templis Graecorum cum figuris <hi>Col. Ag.</hi> 1645</item>
+                  <item>2 Codicum Cabaliſticorum manuſcriptorum à Joan. P. Mirandulano <hi>Par.</hi> 1651</item>
+                  <item>3 De proprietatibus ac virtutibus medicis, ex MS. codice Bibl. Card. Mazarin. <hi>Par.</hi> 1647</item>
+                  <item>4 Mart. Birrii 3 tract de metallorum tranſmutatione <hi>Amſt.</hi> 1648</item>
+                  <item>5 Monas Hieroglyphica Joan. De Lond.</item>
+                  <item>6 Sacrarum Ceremoniarum ſive rituum eccleſiaſt. S. Rom. eccleſ <hi>Col. Ag.</hi> 1572</item>
+                  <item>7 The Goſpel of S. Matthew in Hebrew and Latin <hi>Par.</hi> 1555</item>
+                  <item>8 Gaudent. Merulae rerum memorabilium &amp; Scholiis Pomp. Caſtalii <hi>Lugd.</hi>
+                  </item>
+                  <item>9 Magiae naturalis, ſive de miraculis rerum naturalium à Bapt. Porta</item>
+                  <item>
+                     <pb n="4" facs="tcp:103692:4"/>10 Catalogus plantarum horti medici Oxonienſis, Eng. &amp; Lat. 1648</item>
+                  <item>11 Rob. Plot de origine Fontium tentamen philoſophicum <hi>Oxon.</hi> 1685</item>
+                  <item>12 Laz. Riverii praxis medica <hi>Par.</hi> 1640</item>
+                  <item>13 S. Athanaſii epiſtolae duae de unione &amp; incarnatione gr. lat. <hi>Par.</hi> 1685</item>
+                  <item>14 Phytologia Britannica natales exhibens indigenarum ſtirpium ſponte emergentium.</item>
+                  <item>15 Ant. Piccioli de manus inſpectione <hi>Berg.</hi> 1587</item>
+                  <item>16 Hen. Corn. Agrippae opera in 2 Vol. <hi>Lugd.</hi> 1668</item>
+                  <item>17 A Deſcription of the Morea, in Dutch, with many Figures, Octavo, 1686</item>
+                  <item>18 Joan. Seldeni de Dis Syris Syntagma 2. <hi>Lipſ.</hi> 1668</item>
+                  <item>19 Th. Paracelſi Da Matrice, de tribus principiis, de Aſtronom. &amp; Aſtrologica figmenta, de ſummis naturae myſteriis Comment. tres <hi>Baſ.</hi> 1604</item>
+                  <item>20 Bartholini de extremo judicio, Hippolyti de conſummat. mundi &amp; Frid. Nauſus Noviſſ. judicio</item>
+                  <item>21 And. Laurentii de Criſibus om. morborum <hi>Lugd.</hi> 1605</item>
+                  <item>22 Joan. Wouweri dies aeſtiva, ſive de umbra Paegnion <hi>Oxon.</hi> 1636</item>
+                  <item>23 Rod. Gocleni de ſignatura Hermetis &amp; tract. de luxu <hi>Marp.</hi>
+                  </item>
+                  <item>24 Fr. à Schoten tabulae ſinuum, tangentium, ſecantium, &amp;c. <hi>Rothom.</hi>
+                  </item>
+                  <item>25 Jo. Aſſuraei Iatromathematica <hi>Roſt.</hi> 1629</item>
+                  <item>26 J. G. Kieffer. de S. R. I. Electorum origine &amp; poteſtate <hi>Argent.</hi> 1671</item>
+                  <item>27 Naturae ſanctuarium quod eſt phyſica hermetica, à Hen. Nollio. <hi>Franc.</hi> 1619</item>
+                  <item>28 Hieron. Cardani de rerum varietate</item>
+                  <item>29 L' imagini de idei de gli. Antichi. cum mult. figuris. <hi>Pad.</hi> 1602</item>
+                  <item>30 Tullii de natura deorum, de legibus, de divinatione, &amp;c. <hi>Aldus</hi>
+                  </item>
+                  <item>31 Theatrum Sympatheticum ſive de mirabil. de pulver. ſympathet. 1660</item>
+                  <item>32 Fran. Redi experimenta circa generationem Infectorum <hi>Amſt.</hi> 1671</item>
+                  <item>33 Crollii &amp; Hartmanni, baſilicae, chymicae &amp; chymiatricae <hi>Gen.</hi> 1643</item>
+                  <item>34 Memorabilium utilium ac jucundor. centuriae novem à An. Mizaldo <hi>Par.</hi>
+                  </item>
+                  <item>35 De ortu &amp; natura ſanguinis à Joan. Betto <hi>Lond.</hi> 1669</item>
+                  <item>36 Bathonienſium &amp; Aquiſgranenſium Thermarum comparatio ibid. 1676</item>
+                  <item>37 Philoſophia chymica tribus Tractatibus comprehenſa à Claveo 1612</item>
+                  <item>38 Pictorii Panoplion</item>
+                  <item>39 Palladium Spagyricum, Pet. Jo. Fabri <hi>Arg.</hi> 1632</item>
+                  <item>40 Jo. Caii Britanni opera cum not. ejus in Galenum</item>
+                  <item>41 D. Auguſtini meditationes ſoliloq. &amp; manuale <hi>Col. Ag.</hi> 1639</item>
+                  <item>42 Iſagoge phyſico magico medica à Aug. Etziero <hi>Argent.</hi> 1631</item>
+                  <item>43 Franc. Patricii ſummi philoſophi Zoroaſter &amp; ejus 320 orac. Chaldaica.</item>
+                  <item>44 Gal. Martii de doctrina promiſcua</item>
+                  <item>45 Paralipomena philoſophica de mundo peripatetico à Franc. Albo 1652</item>
+                  <item>46 De Graecae Eccleſiae hodierno ſtatu epiſtola à Th. Smith 1658</item>
+                  <item>47 Adenographia ſive glandularum totius corp. deſcriptio à Tho. Wharton 1656</item>
+                  <item>48 Specimen univerſae rei nummariae antiquae à And. Morellio cum fig. <hi>Par.</hi> 1683</item>
+                  <item>49 Joan. Heurnii praxis medicinae nova ratio <hi>Rot.</hi> 1650</item>
+                  <item>50 Porphyrii philoſophi ſive Malchi de vita Pythagorae, gr. lat.</item>
+                  <item>51 Hen. ab Haeres Spadacrene, Hoc eſt fons Spadanus <hi>Lugd. Bat.</hi> 1645</item>
+                  <item>52 Ch. Merret. pinax rerum naturalium Britannicarum <hi>Lond.</hi> 1687</item>
+                  <item>53 Ed. Dickinſon de Quinteſſentia philoſophorum &amp; vera phyſiologia 1686</item>
+                  <item>54 J. Caeſ. Baracelli hortulus genialis ſive arcanorum <hi>Col.</hi> 1620</item>
+                  <item>55 De ſignificatis &amp; eventis inſomniorum ex Judaeor. Perſar. Aegyptiorumque diſciplin.</item>
+                  <item>56 Nucleus hiſt. univerſal. tam ſacrae quam profan. per R P.F. G. Bucelinum, <hi>Ulmae.</hi> 1659</item>
+                  <item>57 — Idem iterum <hi>Aug. Vind.</hi> 1658</item>
+               </list>
+            </div>
+            <div type="part">
+               <pb n="5" facs="tcp:103692:4"/>
+               <head>Engliſh Miſcellanies in <hi>Folio.</hi>
+               </head>
+               <list>
+                  <item>1 THE Hiſtory of the Iſland <hi>Ceylon</hi> in the <hi>Eaſt Indies,</hi> illuſtrated with Figures by <hi>Ro. Knox</hi> 1681</item>
+                  <item>2 The Works of our Learned Poet <hi>Jeffrey Chaucer,</hi> with his Life 1598</item>
+                  <item>3 Ten years Travels into <hi>Germany, Turkey,</hi> &amp;c. by <hi>F. Morriſon</hi>
+                  </item>
+                  <item>4 A Deſcription of the Antiquities of <hi>Leiceſterſhire,</hi> by Mr. <hi>Burton</hi>
+                  </item>
+                  <item>5 <hi>Rob. Gell</hi>'s Eſſay toward the amendment of the Engliſh Tranſlation of the Bible.</item>
+                  <item>6 — Remains, being Annotations on the New Teſtament</item>
+                  <item>7 Some years Travels into <hi>Aſia, Africa,</hi> &amp;c. by Sir <hi>Th. Herbert.</hi> 1677</item>
+                  <item>8 An Eſſay towards a real Character and philoſoph. Language by Biſhop <hi>Wilkins.</hi>
+                  </item>
+                  <item>9 A Diſcourſe of artificial Fire-Works, with Figures, by <hi>Jo. Babington</hi> 1635</item>
+                  <item>10 Enquires into vulgar and common Errors, by Sir <hi>Th. Brown,</hi> D. Phyſ. 1646</item>
+                  <item>11 The Hiſt. of the Cardinals of the <hi>Rom.</hi> Church with Account of the Conclave. 1670</item>
+                  <item>12 The Mirror or Glaſs of Chriſt's Paſſion, an ancient Book</item>
+                  <item>13 <hi>J. H. Van Linſchotten</hi> Voyages and Trav. into the <hi>Eaſt</hi> and <hi>Weſt Ind.</hi> with the Habits.</item>
+                  <item>14 The Church Hiſtory of <hi>Great Britain</hi> with the Lives of the Saints, by <hi>S. Criſſy.</hi> 1668</item>
+                  <item>15 The hiſtorical and miſcellaneous Tracts of the Learned <hi>Pet. Heylyn,</hi> D. D. 1681</item>
+                  <item>16 <hi>Euſebius, Socrates,</hi> &amp;c. Eccleſiaſtical Hiſtory, tranſlated from <hi>Valeſius</hi>'s Edition. 1692</item>
+                  <item>17 One hundred Sermons upon ſeveral remarkable occaſions by Biſhop <hi>Hacket.</hi> 1675</item>
+                  <item>18 Of the Conſecration of Biſhops with their ſucceſſion, by <hi>Fr. Maſon</hi> 1613</item>
+                  <item>19 A Survey of the Republick of <hi>Venice,</hi> by <hi>Ja. Howell</hi> 1651</item>
+                  <item>20 Voyages and Travels of the Ambaſſadors of the Duke of <hi>Holſtein</hi> 1662</item>
+                  <item>21 <hi>Guillim</hi>'s Diſplay of Heraldry. 1611</item>
+                  <item>22 A Diſcovery of Errors in <hi>Brook</hi>'s Heraldry by <hi>Aug. Vincent.</hi> 1622</item>
+                  <item>23 Memoirs for a natural hiſtory of animals, by the academy at <hi>Paris</hi> 1688</item>
+                  <item>24 S. <hi>Auguſtine</hi> of the City of God, with <hi>Lud. Vives</hi> Comment. 1620</item>
+                  <item>25 A Garden of all ſorts of pleaſant Flowers and Fruit-Trees by Mr. <hi>Parkinſon.</hi>
+                  </item>
+                  <item>26 Lord <hi>Bacon</hi>'s natural hiſtory, with the hiſtory of Life and Death 1658</item>
+                  <item>27 The primitive Origination of Mankind examined by Judge <hi>Hales</hi>
+                  </item>
+                  <item>28 The hiſt. of <hi>Thucidides</hi> of the Wars between the <hi>Peloponeſians</hi> and <hi>Athen.</hi> by <hi>T. Nicholls</hi>
+                  </item>
+                  <item>29 Phyſiognomy and Chiromancy explain'd by <hi>R. Saunders</hi> 1671</item>
+                  <item>30 Hiſtory and Laws of Mines and Minerals in <hi>Engl.</hi> and <hi>Wales</hi> by Sir <hi>J. Pettus.</hi> 1670</item>
+                  <item>31 The Memoirs of Sir <hi>Ja. Melvil,</hi> under Queen <hi>Elizabeth, Mary</hi> Queen of <hi>Scots</hi> and King <hi>James</hi> 1683</item>
+                  <item>32 A new Survey of the <hi>W. Indies,</hi> with a Grammar of the <hi>Ind.</hi> Tongue by Mr. <hi>Gage.</hi> 1648</item>
+                  <item>33 The Voyages and Travels of <hi>J. Bap. Tavernier,</hi> in 2 Vol. 1677</item>
+                  <item>34 Chriſtian Religion's Appeal from the Sceptick to common Reaſon by <hi>J. Smith.</hi> 1675</item>
+                  <item>35 A Treatiſe of the firſt General Council held at <hi>Constantinople</hi> by Dr <hi>Crakanthorp.</hi>
+                  </item>
+                  <item>36 Obſervations upon the Laws and Cuſtoms of Nations as to precedency by Sir <hi>G. Mackenzy,</hi> with the Science of Heraldry, adorned with Sculptures</item>
+                  <item>37 Dr. <hi>Fuller</hi>'s Annotations on the <hi>Rhemiſts</hi> Teſtament 1633</item>
+                  <item>38 The Lives of the noble <hi>Grecians</hi> and <hi>Romans,</hi> compared by <hi>Plutarch</hi> 1631</item>
+                  <item>39 Lord <hi>Herbert</hi>'s Life and Reign of King <hi>Henry</hi> VIII. 1649</item>
+                  <item>40 <hi>Polichronicon,</hi> a curious fair Book and perfect</item>
+                  <item>41 A new hiſtory of <hi>Ethiopia,</hi> illuſtrated with Sculptures, by <hi>Ludolphus Eng.</hi> 1682</item>
+                  <item>42 The hiſtory of the world, or the natural hiſtory by <hi>C. Plinius</hi> 1601</item>
+                  <item>43 The preſent ſtate of the <hi>Ottoman</hi> Empire with Sculptures by Sir <hi>P. Rycaut.</hi> 1668</item>
+                  <pb n="8" facs="tcp:103692:5"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="9" facs="tcp:103692:5"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <item>
+                     <pb n="6" facs="tcp:103692:6"/>44 Hiſtory of theſe Times, in the names of <hi>Lyſander</hi> and <hi>Caliſta,</hi> ſix exemplary Novels by <hi>Mich. de Savedra</hi> 1640</item>
+                  <item>45 Annotations upon all the New Teſtament by <hi>Ed. Leigh,</hi> Eſquire 1650</item>
+                  <item>46 A Chronological Account of antient Time by Dr. <hi>Cary</hi> 1677</item>
+                  <item>47 <hi>Geo. Buck</hi>'s Life of <hi>Richard</hi> III. <hi>James Howell</hi>'s Life of <hi>Lewis</hi> XIII with the Life of Cardinal <hi>Richlieu,</hi> Earl of <hi>Monmouth</hi>'s hiſtory of the Wars in Chriſtendom.</item>
+                  <item>48 <hi>Ben. Johnſon</hi>'s Works complete, with Additions. 1692</item>
+                  <item>49 The Works of Biſh. <hi>Jewell,</hi> in defence of the Church, his Sermons, <hi>&amp;c.</hi> 1611</item>
+                  <item>50 The Works of Sir <hi>W. Davenant,</hi> publiſhed from the Author's original Copies. 1673</item>
+                  <item>51 A new world of <hi>Engliſh</hi> Words, or a general <hi>Engliſh</hi> Dictionary, 3d. Edition 1671</item>
+                  <item>52 The Life of <hi>W. Cavendiſh,</hi> Duke of <hi>Newcaſtle,</hi> writ by his Dutcheſs 1667</item>
+                  <item>53 The excellency of Monarchie. Government, eſpecially the <hi>Eng.</hi> by Dr. <hi>Jonſton.</hi> 1686</item>
+                  <item>54 Eight Books of the <hi>Peloponneſian</hi> War by <hi>Thucidides,</hi> Engliſh'd by <hi>Tho. Hobbes.</hi> 1648</item>
+                  <item>55 Ninety ſix Sermons by the Reverend and Learned Biſhop <hi>Andrews</hi> 1631</item>
+                  <item>56 The Memoirs of <hi>James</hi> and <hi>William</hi> Dukes of <hi>Hamilton,</hi> by Biſhop <hi>Burnet.</hi>
+                  </item>
+                  <item>57 <hi>Pet. Walſh</hi> hiſtory and vindication of the <hi>Iriſh</hi> Remonſtrance 1674</item>
+                  <item>58 Titles of Honor by the famous <hi>John Selden,</hi> Eſquire, 3d. Edition 1672</item>
+                  <item>59 Vale Royal of <hi>England,</hi> or <hi>Cheſhire</hi> deſcribed, <hi>&amp;c.</hi> with Sculptures by Dr. <hi>King.</hi>
+                  </item>
+                  <item>60 The hiſtory of <hi>Diodorus Siculus</hi> from the beginning of the world 1653</item>
+                  <item>61 The hiſt. of <hi>Edward</hi> IV. King of <hi>England,</hi> by <hi>William Habington</hi> 1640</item>
+                  <item>62 —of <hi>France,</hi> the memorable Act. of that and other King by the Earl of <hi>Monmouth.</hi>
+                  </item>
+                  <item>63 An impartial Collection of the great affairs of State, in 2 Vol. by Dr. <hi>Nalſon.</hi> 1682</item>
+                  <item>64 The myſtery of Iniquity, or hiſtory of Popery by the Lord <hi>du Pleſſis</hi>
+                  </item>
+                  <item>65 The Antiquities of the County of <hi>Rutland</hi> with Sculptures by <hi>J. Wright.</hi> 1684</item>
+                  <item>66 A complete Alphabetical Concordance to the New Teſtament in Engliſh, Greek and Latin by <hi>Andr. Sympſon</hi> 1658</item>
+                  <item>67 The alliance of divine offices with annotations by <hi>H. Leſtrange</hi> 1659</item>
+                  <item>68 The <hi>Roman</hi> hiſt. in 18 Books, by <hi>Am. Marcellinus</hi> 1609</item>
+                  <item>69 A diſplay of ſuppoſed witchcraft, of the exiſtence of ſpirits, <hi>&amp;c.</hi> by <hi>J. Webſter.</hi> 1677</item>
+                  <item>70 Reply to two Diſcourſes concerning the adoration of our Saviour in the Euchariſt, on the eight Theſes of Church Government, on the hiſtorical part of Church Government, an Anſwer to ſome Conſiderations on the Spirit of <hi>Martin Lu<g ref="char:EOLhyphen"/>ther,</hi> an Anſwer to ſome Diſcourſe concerning the Celibacy of the Clergy: Reflections on <hi>Pietas Romana &amp; Pariſienſis,</hi> Printed at <hi>Oxon.</hi>
+                  </item>
+                  <item>71 The Sphere of Gentry, an hiſtorical work of Arms and Blazon by <hi>S. Morgan.</hi> 1661</item>
+                  <item>72 The hiſt. of the Church of <hi>Piedmont,</hi> and the bloody Maſſac. by Sir <hi>S. More. Lon.</hi> 1658</item>
+                  <item>73 An apol. for the power and providence of God in govern. the world by D. <hi>Hakerwell.</hi>
+                  </item>
+                  <item>74 An hiſtorical diſcourſe of the Cities of <hi>London</hi> and <hi>Weſtminſter,</hi> by <hi>J. Howel.</hi> 1657</item>
+                  <item>75 A paraphraſe upon the divine Poems by <hi>Geo. Sandys</hi> 1638</item>
+                  <item>76 <hi>Polyolbion,</hi> a deſcription of the Rivers in <hi>England,</hi> with Maps complete, by <hi>M. Drayton.</hi>
+                  </item>
+                  <item>77 A Chronicle of the War in <hi>England, Scot.</hi> and <hi>Ireland,</hi> by <hi>Ja. Heath.</hi> 1676</item>
+                  <item>78 <hi>Mercator</hi>'s Atlas, or his Coſmographical Deſcription of the World, with maps. 1635</item>
+                  <item>79 A complete hiſtory of the Life and Reign of K. <hi>Charles</hi> I. by <hi>W. Sanderſon.</hi> 1656</item>
+                  <item>80 — of the Lives and Reigns of <hi>Mary</hi> Qu. of <hi>Scots,</hi> and K. <hi>James</hi> I. 1656</item>
+                  <item>81 A Commentary upon <hi>Forteſcue</hi> of the Laws of <hi>England</hi> by <hi>Ed. Waterhouſe.</hi> 1663</item>
+                  <item>82 The Travels of Sir <hi>J. Chardin</hi> into <hi>Perſia</hi> and the Eaſt-Indies, with 25 Sculpt. 1691</item>
+                  <item>83 A world of wonders, or a preparat. Trea. to the Apol. for <hi>Heroditus</hi> by <hi>H. Stephens.</hi>
+                  </item>
+                  <item>84 Six Books of Plants in Lat. by Mr. <hi>Cowley,</hi> made Engliſh by ſeveral Hands. 1689</item>
+                  <item>85 The hiſt. of the wicked plots and conſpir. of ſome Presbyterians by <hi>H. Fowles.</hi> 1674</item>
+                  <item>86 The hiſt. of the Reformation of the Ch. of <hi>England</hi> by Dr. <hi>Heylin.</hi>
+                  </item>
+                  <item>
+                     <pb n="7" facs="tcp:103692:6"/>87 Hiſtory of the Lives, Acts. <hi>&amp;c.</hi> of the Primitive Fathers in 2 Vol. by Dr. <hi>Cave.</hi> 1682</item>
+                  <item>88 —Of the Lives, Acts, and Martyrdoms of the Apoſtles, with Sculptures 1676</item>
+                  <item>89 Antiquities of Antient <hi>Britain</hi> derived from the <hi>Phenitians,</hi> by <hi>A. Sammes</hi> 1676</item>
+                  <item>90 The Anatomy of Plants, in Lectures before the R. Society by Dr. <hi>Grew,</hi> large Paper</item>
+                  <item>91 A Law-Dictionary, interpreting Law-Terms, by <hi>Th. Blount,</hi> large Paper. 1670</item>
+                  <item>92 <hi>Geo. Sandys</hi> Travels into <hi>Turkey, Egypt,</hi> &amp;c. with Sculptures 1627</item>
+                  <item>93 Lectures upon the fourth Chapter of S. <hi>John</hi> by <hi>Arth. Hilderſham</hi>
+                  </item>
+                  <item>94 The Aſſembly of Divines Annotations on the Old and New Teſtam. in 2 Vol. 1651</item>
+                  <item>95 The Eſſays of <hi>Mich.</hi> Lord <hi>Montaigne</hi> 1613</item>
+                  <item>96 A Collection of the Hiſtory of <hi>England</hi> by <hi>S. Daniel</hi> 1621</item>
+                  <item>97 A general hiſt. of the <hi>Turks,</hi> with the Lives of the <hi>Ottoman</hi> Emper. by <hi>R. Knolles</hi> 1631</item>
+                  <item>98 The <hi>Roman</hi> hiſt. by <hi>T. Livius,</hi> Engliſhed by Dr. <hi>Holland</hi> 1600</item>
+                  <item>99 De Confeſſione Amantis: the Works of the ancient Poet <hi>Gower</hi>
+                  </item>
+                  <item>100 The Chronicle of <hi>England</hi> and <hi>Scotland</hi> by <hi>Ed. Howes,</hi> wants the Title.</item>
+                  <item>101 The Laws of Art and Nature in judging metals, with Sculptures, by Sir <hi>J. Pettus.</hi>
+                  </item>
+                  <item>102 The hiſtory of <hi>Portugal,</hi> with the Wars with the Moors, by <hi>Ed. Blount</hi> 1600</item>
+                  <item>103 The Country Juſtice, or the practice of a Juſtice of Peace, by M. <hi>Dalton.</hi> 1635</item>
+                  <item>104 Archbiſhop <hi>Laud</hi>'s Conference with <hi>Fiſher</hi> the Jeſuit 1686</item>
+                  <item>105 The hiſt. of the Church of <hi>Scotland</hi> from the Reformation by <hi>Caldenwood</hi> 168<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </item>
+                  <item>106 The hiſt. of Birds, <hi>&amp;c.</hi> deſcribed by moſt elegant Figures, with the Art of Fowl<g ref="char:EOLhyphen"/>ing, Falconry, and ordering of ſinging Birds, by <hi>J. Ray.</hi> 1688</item>
+                  <item>107 <hi>Joſephus</hi> of the Antiquity of the Jews, with a new map of the Holy Land. 1693</item>
+                  <item>108 The hiſt. of the Council of <hi>Trent,</hi> with the Life of Father <hi>Paul,</hi> the laſt Edition.</item>
+                  <item>109 <hi>R. Hollingſhead</hi>'s Chronicle of <hi>England, Scotland</hi> and <hi>Ireland</hi>
+                  </item>
+                  <item>110 Biſhop <hi>Burnett</hi>'s hiſt. of the Reformation of the Church of <hi>England</hi> in 2 Vol. 1681</item>
+                  <item>111 <hi>J. Smith</hi>'s Chriſtian Religions Appeal from the prejudices of the Sceptick. 1675</item>
+                  <item>112 A Body of the mathematical Sciences in nine Books by <hi>W. Leybourn</hi> 1690</item>
+                  <item>113 The Theory of the Earth. 1. Of the Deluge. 2. Concern. Paradiſe by D. <hi>Burnet.</hi> 1684</item>
+                  <item>114 The nat. hiſt. of <hi>Staffordſhire,</hi> with Sculptures, by D. <hi>Plot</hi> 1686</item>
+                  <item>115 —of <hi>Oxfordſhire,</hi> with Sculptures 1677</item>
+                  <item>116 A Comen. on the <hi>Epheſians</hi> with a Confut. of <hi>Arminianiſm</hi> and Popery by <hi>P. Baines.</hi>
+                  </item>
+                  <item>117 Synopſis Papiſmi, or Popery confuted by Script. Fathers, <hi>&amp;c.</hi> by D. <hi>Willet.</hi>
+                  </item>
+                  <item>118 An Expoſition on the Epiſtle to <hi>Timothy,</hi> by <hi>John Barlow</hi> of <hi>Plimouth</hi>
+                  </item>
+                  <item>116 The Book of Common-Prayer, large Letter 1662</item>
+                  <item>120 The Parley of Beaſts, or <hi>Morphandra</hi> Queen of the enchanted Iſland by <hi>J. Howell</hi>
+                  </item>
+                  <item>121 <hi>Leo's</hi> Hiſtory of <hi>Africa.</hi>
+                  </item>
+                  <item>122 The hiſt. of Four-footed Beaſts and Serpents with their Figures, by <hi>C. Geſner.</hi> 1658</item>
+                  <item>123 A Paraphraſe and Annotations on the New Teſtament by Dr. <hi>Hammond</hi> 1653</item>
+                  <item>124 The Annals of the World, cont. the hiſt. of the Old and N. Teſt. by B. <hi>Uſher.</hi> 1658</item>
+                  <item>125 <hi>Godfrey</hi> of <hi>Bulloigne,</hi> or the Recovery of <hi>Jeruſalem</hi> with his Life</item>
+                  <item>126 <hi>R. Monro</hi> his Expedition in the Wars of the King of <hi>Denmark</hi> 1637</item>
+                  <item>127 Mrs. <hi>Kath. Phillips</hi> Poems and Plays 1678</item>
+                  <item>128 The Travels of Sir <hi>Geo. Wheeler</hi> to <hi>Conſtantinople, Aſia,</hi> &amp;c. with Figures 1682</item>
+                  <item>129 A Courſe of Sermons for all the Sundays in the year, by Biſhop <hi>Taylor</hi> 1655</item>
+                  <item>130 Hiſtor. Collections in the years of K. <hi>James,</hi> and K. <hi>Charles</hi> by <hi>J. Ruſhworth.</hi> 1659</item>
+                  <item>131 The Works of <hi>L. An. Seneca,</hi> tranſlated by Dr. <hi>Lodge</hi>
+                  </item>
+                  <item>132 The hiſt. of the whole World, with maps, by <hi>Pet. Heylin</hi> 1652</item>
+                  <item>133 <hi>D. J. Juv.</hi> and <hi>A. Perſius</hi> tranſlated, <hi>&amp;c.</hi> with Sculpt. and Notes by <hi>B. Holy-day.</hi> 1673</item>
+                  <item>134 The Sum of Chriſt. Theology in an expoſit. on the Creed, by D. <hi>Heylin</hi> 1673</item>
+                  <item>135 A Catalogue and Deſcript. of the Rarities of the Royal Society by Dr. <hi>Grew.</hi> 1681</item>
+                  <item>
+                     <pb n="8" facs="tcp:103692:7"/>136 General Hiſtory of the <hi>Netherlands,</hi> by <hi>Edw. Grimſtone,</hi> 2d. Edition</item>
+                  <item>137 A famous Chronicle, <hi>&amp;c.</hi> called <hi>Sleidans</hi> Commentaries in Engliſh</item>
+                  <item>138 Of the Conſecration of the Biſhops in the Church of <hi>England,</hi> by <hi>F. Maſon</hi>
+                  </item>
+                  <item>139 Works of <hi>Geffery Chaucer,</hi> with the works of <hi>J. Lydgat,</hi> Monk of <hi>Bury</hi>
+                  </item>
+                  <item>140 Life of Archb. <hi>Land,</hi> with his Tryal, by <hi>William Prinne</hi> 1644</item>
+                  <item>141 Survey of <hi>London;</hi> its Original, Government, <hi>&amp;c.</hi> by <hi>J. Stow</hi> 1633</item>
+                  <item>142 Lives of ſeveral eminent Perſons in this later Age, with Fig. by <hi>G. Clark</hi> 1683</item>
+               </list>
+            </div>
+            <div type="part">
+               <head>Engliſh Books in <hi>Quarto.</hi>
+               </head>
+               <list>
+                  <item>1 CErtain learned Tracts of Mr. <hi>J. Gregorys</hi> 1649</item>
+                  <item>2 <hi>Nordens</hi> Deſcription of <hi>Middleſex,</hi> with <hi>Bedwells</hi> Deſcription of <hi>Tottenham</hi>
+                  </item>
+                  <item>3 <hi>Dariots</hi> Introduction to the Judgment of the Stars 1653</item>
+                  <item>4 <hi>Clavels</hi> Tables for Forbearance and Diſcompt of Money 1669</item>
+                  <item>5 <hi>Batmans</hi> Doom, warning all men to Judgment; a Collect. of remarkable Hiſtories</item>
+                  <item>6 Choice Emblems and other deviſes, with figures, by <hi>G. Whitney</hi>
+                  </item>
+                  <item>7 <hi>Lillys</hi> Monarchy or no Monarchy — Propheſie of the white King — <hi>Annus Tene<g ref="char:EOLhyphen"/>broſius,</hi> with 6 other Tracts, by <hi>Lilly, Brooker, Wharton,</hi> &amp;c.</item>
+                  <item>8 <hi>Charltons</hi> Toruary of Paradoxes 1650</item>
+                  <item>9 Dr. <hi>Fullers</hi> Lives of ſeveral Divines, with Sculptures</item>
+                  <item>10 Four Books of the ſecrets of the Adopts, by <hi>J. S. Weſdenfeld, G. Edges</hi> 1685</item>
+                  <item>11 Eſſays on ſeveral important Subjects, by <hi>J. Glanvil</hi> 1676</item>
+                  <item>12 Antiquities of <hi>Canterbury,</hi> or a Survey of that City, by <hi>W. Sumner</hi>
+                  </item>
+                  <item>13 A Treaſury or ſtore houſe of Similies, by <hi>R. Cawdry</hi>
+                  </item>
+                  <item>14 The method of Phyſic, or way of cureing Diſeaſes, by <hi>P. Barrough</hi>
+                  </item>
+                  <item>15 <hi>Beretons</hi> Diſcovery of the North part of <hi>Virginia</hi>—Of the Policies and Ceremo<g ref="char:EOLhyphen"/>nies of the <hi>Eaſt-Indies</hi> — Relation of Sir <hi>F. Drakes</hi> Services. — Of the <hi>Moors</hi> againſt <hi>Spain.</hi>—The Great <hi>Turks</hi> Letters to divers Emperours, Kings, <hi>&amp;c.</hi> with Anſwers to them. — <hi>Ketts</hi> Rebellion in <hi>Norfolk</hi> — Of 67 men, what miſe<g ref="char:EOLhyphen"/>ries they endured in <hi>Guinea.</hi>— Travels of certain Engliſh men into <hi>Africa</hi> and <hi>Aſia.—Cartwrights</hi> Travels to the <hi>Eaſt-Indies.</hi>— Of the <hi>Portugal</hi> Navigations to the Eaſt parts of the World</item>
+                  <item>16 The Priviledges of the Parliaments in <hi>England.</hi>— Another of the ſame, by <hi>Ra<g ref="char:EOLhyphen"/>leigh.</hi> — Of the Government of <hi>England</hi> — Of Laws of <hi>England.</hi> — A Com<g ref="char:EOLhyphen"/>miſſion for Compound — For Wards — Ideots and Lunaticks—Fees of the Officers of the Courts A Decree of the <hi>Star-Chamber.</hi> — Aſſize of Bread.— Travels and Captivity of <hi>William Davies.</hi> — The Entertainment of the <hi>Morocco</hi> Embaſſador in <hi>England.</hi> — Account of the Rebellion in <hi>Moſcovy</hi>—Relation of <hi>Tangier.</hi>—Of <hi>Carolina.</hi>—Of the Iſland <hi>Tobago.</hi>—Of Mr. <hi>De Queſnes</hi> Expedition at <hi>Chio</hi>
+                  </item>
+                  <item>17 The Attorneys Accademy.—Star Chamber Caſes.—Canons of the Church— The Lawyers Light. — A Treatiſe of the Uſe of the Law</item>
+                  <item>18 Common-prayer, Apocripha, and Singing-Pſalms, in a fair Character</item>
+                  <item>19 Sermon Preached before Sir P. <hi>Ward,</hi> and other Tracts, by <hi>J. Turner</hi> 1684</item>
+                  <item>20 Holy Hiſtory, containing excellent Obſervations, by <hi>N. Cauſin</hi> 1653</item>
+                  <item>21 <hi>O. Felthams</hi> Reſolves on ſeveral Subjects</item>
+                  <item>22 Remains concerning <hi>Britain,</hi> by <hi>Will. Camden,</hi> 
+                     <abbr>Eſq</abbr> 1657</item>
+                  <item>23 <hi>J. Stows</hi> Survey of <hi>London;</hi> its Original, Antiquity, <hi>&amp;c.</hi>
+                  </item>
+                  <item>24 The darkneſs of Atheiſm diſpelled by Light of Nature, by Dr. <hi>Charlton</hi>
+                  </item>
+                  <item>25 Dr. <hi>Edward Browns</hi> Travels in 2 Vol. with Figures 1673</item>
+                  <item>
+                     <pb n="9" facs="tcp:103692:7"/>26 <hi>Aſhmoles Theatrum Chimicum,</hi> a Collect. of Authors on the <hi>Hermel.</hi> myſteries</item>
+                  <item>27 Deſcription of ſundry Chriſtians in the world not ſubject to the Pope, by <hi>E. Pagit</hi>
+                  </item>
+                  <item>28 Of Idolatry, a diſcourſe of its ſuperſtition <hi>&amp;c.</hi> by Bp. <hi>Tenniſon</hi> 1678</item>
+                  <item>29 Paraphraſe upon the Pſalms of <hi>David,</hi> by <hi>Sam. Woodford</hi> 1668</item>
+                  <item>30 Examination of the Academies. — <hi>Milton</hi> Of Divorce. — <hi>Tho Py, De Divor<g ref="char:EOLhyphen"/>tiis Judaeorum.</hi> — Butler, <hi>De propinquitate matrimonium.</hi>— A wife and no Wife, a Sermon, by <hi>T. Grantham.</hi> — <hi>Reynolds</hi> overthrow of Stage-plays Of the Celebration of our Saviours Nativity</item>
+                  <item>31 Relation of the cruelties at <hi>Amboyna—Blunts</hi> Voyage to the <hi>Levant.</hi> — Lord <hi>Howards</hi> Travels into <hi>Germany.</hi> — A Viſion in <hi>Arabia</hi> over <hi>Mahomets</hi> tomb. — Sir <hi>T. Overbury's</hi> Viſion.—Wits miſery and the worlds madneſs.— Hiſtory of <hi>Donna Britannica Hollandia.</hi>— Tails and Jeſts of <hi>Hugh Peters</hi>
+                  </item>
+                  <item>32 Articles of Peace between K. <hi>James</hi> and the K. of <hi>Spain.</hi> — The <hi>Dutch</hi> and the Town of <hi>Buſſen.</hi> — Prince of <hi>Orange</hi> and the Town of <hi>Shertogenbaſh.</hi> — King <hi>Charles</hi> and the K. of <hi>Portugal.</hi>—Pope and the Duke of <hi>Parma.</hi>— Pope and the Duke of <hi>Florence.</hi>—K. <hi>Charles</hi> 2. and <hi>Algiers.</hi> — Great Bri<g ref="char:EOLhyphen"/>tain and <hi>Spain.</hi> — King <hi>Charles</hi> 2. and <hi>Hollanders</hi> — King <hi>Charles</hi> and the <hi>French</hi> King. — The horrid Injuries committed by the King of <hi>Sweeden,</hi> upon the Duke of <hi>Coarland,</hi> his Dutcheſs and 7 Children, <hi>&amp;c.</hi>
+                  </item>
+                  <item>33 <hi>Hartlibs</hi> Legacy of Husbandry.—Of Husbandry and the natural Hiſtory of <hi>Ire<g ref="char:EOLhyphen"/>land.</hi> —Improvement of Forreſts, <hi>&amp;c.</hi> by incloſures.—<hi>Auſtin</hi> Of Fruit-trees <hi>Hughs</hi> Complete Vineyard. — Inſtruct. for increaſing Mulbery-trees and breeding Silk-worms. — Rare ſecrets, in man, beaſts, fowls, <hi>&amp;c.</hi> — A new and admirable Art in ſetting Corn</item>
+                  <item>34 Hiſtorical Diſcourſe of the Government of <hi>England</hi> in 2 Vol. by Mr. <hi>Bacon</hi>
+                  </item>
+                  <item>35 Treatiſe of Angels, their nature, power, <hi>&amp;c.</hi> by <hi>H. Lawrence</hi> 1652</item>
+                  <item>36 <hi>Heliodorus</hi> his <hi>Ethiopian</hi> Hiſtory, tranſlated out of Greek</item>
+                  <item>37 A Chronicle containing the Lives of the <hi>Roman Emperors,</hi> by <hi>Guevara</hi>
+                  </item>
+                  <item>38 Diſcourſe touching the Spaniſh monarchy, by <hi>Tho. Campanella</hi>
+                  </item>
+                  <item>39 Hiſtorical Narration of the firſt 14 years of King <hi>James</hi>
+                  </item>
+                  <item>40 The Kings Viſitatorical Power aſſerted, by Dr. <hi>Johnſon</hi>
+                  </item>
+                  <item>41 <hi>Mercurius Aulicus,</hi> or a diurnal for the year 1642</item>
+                  <item>42 A mirrour for Magiſtrates, an antient Book in Verſe</item>
+                  <item>43 Hiſtory of the <hi>Bucaniers</hi> of <hi>America,</hi> with the Siege of <hi>Vienna</hi>
+                  </item>
+                  <item>44 <hi>Otto Tachemius</hi> his <hi>Hipocrates Chimicus</hi>
+                  </item>
+                  <item>45 <hi>Bot<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>rus</hi> Relations of the moſt famous Kingdoms in the world</item>
+                  <item>46 A new and true deſcription of the Law of God called Nature in the Body of man, by Dr. <hi>Drage</hi> 1661</item>
+                  <item>47 <hi>Speculum mundi,</hi> or a view of the 6 days Creation, by Mr. <hi>Swan</hi> 1643</item>
+                  <item>48 <hi>Saluſt.</hi> Roman Hiſtory tranſlated into Engliſh</item>
+                  <item>49 The Ship of Fools, an antient Book Printed by <hi>Winkyn de Wood</hi>
+                  </item>
+                  <item>50 Antiquities of the Engliſh Nation with Figures, by Mr. <hi>Verſtegan</hi>
+                  </item>
+                  <item>51 <hi>Hollands</hi> Expoſition upon the <hi>Revelations</hi> 1650</item>
+                  <item>52 <hi>Speculum Chriſtianum,</hi> or the Chriſt. Looking-glaſs, Printed upon wooden Charact.</item>
+                  <item>53 <hi>Swans</hi> meaſuring Reed, or the ſtandard of time 1653</item>
+                  <item>54 <hi>Heylins</hi> ſtumbling Block of Rebellion removed 1658</item>
+                  <item>55 The <hi>Hollanders</hi> Declaration concern. <hi>Eaſt-India,</hi> with Propoſitions and Anſwers to the ſame; with ſeveral other Tracts relating to <hi>England</hi> and <hi>Holland</hi>
+                  </item>
+                  <item>56 <hi>Religio Laici,</hi> by <hi>Dryden.—Azariah</hi> and <hi>Husſhai.</hi> — Satyr to his muſe, by <hi>Dry<g ref="char:EOLhyphen"/>den. — Scandalum magnatum.</hi>— The Medal of <hi>J. Bayes Maſſianello.</hi> —
+<pb n="10" facs="tcp:103692:8"/>
+Presbytery Rogue drawn. — Directions to Fame, about <abbr>Eſq</abbr> 
+                     <hi>Thinn.</hi> — A Satyr againſt Woman, <hi>&amp;c.</hi>
+                  </item>
+                  <item>57 <hi>Levets</hi> ordering of Bees.— Account of the <hi>Bannian</hi> Religion—Of the Re<g ref="char:EOLhyphen"/>ligion of the <hi>Perſians.—Harcourts</hi> Voyage to <hi>Guinea.</hi>— Relation of <hi>Beuge<g ref="char:EOLhyphen"/>lia</hi> and <hi>Cochin.—Fredericks</hi> Traves to the Indies and beyond them</item>
+                  <item>58 <hi>Pont</hi> Of the laſt decaying age of the world.—<hi>Ingpen</hi> Of the ſecrets of numbers. — <hi>Blounts</hi> Art of making Deviſes, with Sculptures.— <hi>Franſ. de inſignibus Emblem. &amp; Hierogliphicum</hi>
+                  </item>
+                  <item>59 Collection of marriages between <hi>Spain</hi> and <hi>England.</hi> — Catalogue of the Lord Chancellours and Treaſurers of <hi>England.—Butchers</hi> Survey of <hi>Stamford</hi> in <hi>Lincolnſhire.—Cottons</hi> Life and Defence of K. <hi>Edward</hi> and K <hi>Henry</hi> III. — Defence of the Sentence and Execution of <hi>Mary</hi> Queen. of <hi>Scots.</hi> — Life of <hi>H. Wilby,</hi> 
+                     <abbr>Eſq</abbr> who lived 84 years and was never ſeen by any</item>
+                  <item>60 Wars of <hi>Sweedland</hi> and <hi>Poland.</hi> — Relation of <hi>Florida, Virginia,</hi> and <hi>Burmudas.— Sherleys</hi> Travels into <hi>Perſia.</hi>— Travels of 2 Pilgrims to <hi>Jeruſalem, Grand Cai<g ref="char:EOLhyphen"/>ro, Alexandria.</hi>— Embaſſy from the Emperor of <hi>Morocco,</hi> &amp;c.</item>
+                  <item>61 Hiſtory of the Church of <hi>Great Britain</hi> to the year 1667</item>
+                  <item>62 Abridgment of <hi>Camdens Britannia,</hi> with maps of <hi>England</hi> and <hi>Wales</hi>
+                  </item>
+                  <item>63 Viſion of <hi>Pierce</hi> the Ploughman, by <hi>R. Longland,</hi> in the year 1350</item>
+                  <item>64 Capt. <hi>Luke Foxs</hi> North-weſt paſſage, with <hi>Halls</hi> Voyages 1635</item>
+                  <item>65 The Foreſt, or a Collection of Hiſtories, by <hi>Tho. Forteſcue</hi> 1576</item>
+                  <item>66 Hiſtory of Gavel-kind with the Etymology thereof, by <hi>S. Taylor</hi> 1662</item>
+                  <item>67 <hi>Fab. Phillips</hi> Rights of the Courts of Juſtice, with their Writs of Capias, Arreſts, <hi>&amp;c.</hi>
+                  </item>
+                  <item>68 Dialogues of Creatures moralized, with Figures, an antient Book</item>
+                  <item>69 Lord <hi>Bacons</hi> Eſſays, with the colours of good and evil 1639</item>
+                  <item>70 Kingdom of <hi>England</hi> and Principality of <hi>Wales</hi> deſcribed in 6 maps</item>
+                  <item>71 Proſpect of the principal Cities and Towns in <hi>Hungary, Tranſilvania,</hi> and the <hi>Tur<g ref="char:EOLhyphen"/>kiſh</hi> Dominions, from <hi>Vienna</hi> to <hi>Conſtantinople,</hi> in ſeveral maps</item>
+                  <item>72 Key to the <hi>Revelations,</hi> in a Commentary by <hi>Joſ. Mede</hi> 1643</item>
+                  <item>73 <hi>Will Lythgows</hi> Travels through 48 Kingdoms 1640</item>
+                  <item>74 <hi>Bunny</hi> Of Divorce. — Of the Calling the <hi>Jews.—Traſter,</hi> Of Chriſtian liberty. — <hi>Moſs</hi> Arraignment of Uſury. — Preſident for a Prince. — News out of Heaven, Purgatory, and Hell</item>
+                  <item>75 Deſcription, with advice to the Planters of <hi>New England.</hi>— Battel with the Sal<g ref="char:EOLhyphen"/>vages in <hi>New England.</hi>—Account of <hi>Virginia</hi> and <hi>Mary-Land.</hi>—Journal of the <hi>Sally</hi> Fleet.— New ſouthern diſcovery containing a 5th. part of the world. —Relation of the ſucceſs of the Kings Fleet againſt the <hi>Algiers</hi>
+                  </item>
+                  <item>76 Sixth Book of <hi>Cowleys Plantarum</hi> Engliſhed.— <hi>M. Needham</hi> Hiſtory of the Engl. Rebellion.—Confuſion of <hi>Babel.</hi>—Loyal Citizen.—Tory Poſt.—War-horſe — The Character. — Poets complaint of his muſe, by <hi>Otway.</hi>— Anſwer to <hi>Ab<g ref="char:EOLhyphen"/>ſolom</hi> and <hi>Achitophel.—Le Lutrin</hi> Engliſhed.—Old Cauſes Epitaph.—Satyr on manners.—Presbyterian Litany.—City Dog in a Saints Doublet</item>
+                  <item>77 <hi>Hakewells</hi> Liberty of the Subject.—Star-Chamber Caſes. — Antient Cuſtoms of <hi>London,</hi> by <hi>Hales. Wild, Wildman,</hi> and <hi>Price.</hi> — Book of Secrets for making of all ſorts of Ink.—Laws of the Compters</item>
+                  <item>78 Cant. for the Credulous. — <hi>Webbs</hi> New age of old names.—Diagl. of the Dignity of men.—Brief conference of divers Laws.— Delect. demands &amp; pleaſ. queſtions</item>
+                  <item>79 <hi>Boſſwells</hi> Works of Armory, with Coats of Arms</item>
+                  <item>80 Trueneſs of Chriſtian Religion, againſt Atheiſts, Jews, <hi>&amp;c.</hi> by <hi>Mornay</hi> 1617</item>
+                  <item>81 <hi>Scots</hi> Diſcovery of witchcraft 1651</item>
+                  <item>
+                     <pb n="11" facs="tcp:103692:8"/>82 Of the Nature, work and manner of right ordering Bees, by Mr. <hi>Purchas</hi> 1657</item>
+                  <item>83 Mr. <hi>R. Baxter</hi> on the Lord's Prayer and Pſalms 1640</item>
+                  <item>84 An hiſt. Account of the Royal College of Phyſicians, by Dr. <hi>Goodall</hi> 1684</item>
+                  <item>85 <hi>Godartius</hi> of Infects Engliſhed, with Notes, and Sculptures — <hi>York</hi> 1682</item>
+                  <item>86 Sir <hi>J. Moor</hi>'s new Syſtem of the mathematicks in 2 Vol. 1688</item>
+                  <item>87 King <hi>Henry</hi> the Eighth's Primer in Engl. and Lat. 1545</item>
+                  <item>88 A diſcourſe of happineſs, and wherein it conſiſteth, by <hi>R. Stafford</hi> 1689</item>
+                  <item>89 An hiſtor. vindication of the right of Tythes, by <hi>Tho. Comber</hi> 1682</item>
+                  <item>90 — Of the Church of <hi>England</hi> in point of Schiſm by <hi>R. Twiſden</hi> 1657</item>
+                  <item>91 <hi>S. Morgan</hi> art of dialling, ſpeculative and practical 1652</item>
+                  <item>92 A Perambulation of <hi>Kent</hi> by <hi>W. Lambard</hi>
+                  </item>
+                  <item>93 A Deſcription of the Kingdom of <hi>Congo</hi> in <hi>Africa</hi> with Figures</item>
+                  <item>94 <hi>Brodrom</hi> and <hi>Rous</hi> Roman, Jewiſh and Attique Antiquities 1638</item>
+                  <item>95 The Engliſh Improver improved for improving Lands by <hi>W. Blithe</hi> 1652</item>
+                  <item>96 The Reportory of Records in the Treaſury, Exchequer, Tower, &amp;c. 1681</item>
+               </list>
+            </div>
+            <div type="part">
+               <head>Engliſh Miſcellanies in Octavo.</head>
+               <list>
+                  <item>1 <hi>BOna</hi>'s Guide to Eternity</item>
+                  <item>2 <hi>Caſaubon</hi> of Credulity Incredul.</item>
+                  <item>3 <hi>Smith</hi>'s account of the <hi>Greek</hi> Church</item>
+                  <item>4 <hi>Comber</hi> compan. to the Altar</item>
+                  <item>5 <hi>Stopford</hi> para. between <hi>Rome,</hi> Chriſtian and Pagan</item>
+                  <item>6 <hi>Cotton</hi> choice pieces of Antiquity</item>
+                  <item>7 <hi>Antoninus</hi> medit. by <hi>Cauſabon</hi>
+                  </item>
+                  <item>8 Biſhop <hi>Carew</hi>'s opin. of <hi>Rome</hi> and <hi>Geneva.</hi>
+                  </item>
+                  <item>9 <hi>Hern</hi>'s modern aſſurancer</item>
+                  <item>10 Indiculus univerſalis in Eng. Lat. Fr.</item>
+                  <item>11 <hi>Warly</hi>'s natural Phanatick</item>
+                  <item>12 <hi>J. H.</hi> Account of the Fathers</item>
+                  <item>13 Life of Biſhop <hi>Bedel</hi> with his Letters.</item>
+                  <item>14 Introduct. to the pract. of phyſick</item>
+                  <item>15 The Law relating to Nobil. and Gentr.</item>
+                  <item>16 <hi>Dugdale</hi>'s uſage of Arms</item>
+                  <item>17 <hi>Greav</hi>'s deſcript of the Pyram. of <hi>Egypt.</hi>
+                  </item>
+                  <item>18 Plot de orig. fontium</item>
+                  <item>19 <hi>Boetius Conſola,</hi> of Philoſophy</item>
+                  <item>20 Brown's Religio medici</item>
+                  <item>21 <hi>Saunder</hi>'s on the Act for Conventicles.</item>
+                  <item>22 <hi>Simon</hi> hiſt. of Eccleſ. Revenues</item>
+                  <item>23 <hi>Quintilian</hi>'s Declamations in Eng.</item>
+                  <item>24 Glanvil philoſoph. pia</item>
+                  <item>25 <hi>Wettenhal</hi> Scripture authentick</item>
+                  <item>26 <hi>Turner</hi> Diſcov. of the Meſſias</item>
+                  <item>27 Modeſt Plea for the Clergy</item>
+                  <item>28 <hi>Starkey</hi>'s Vind. of <hi>Helmont</hi>
+                  </item>
+                  <item>29 <hi>Sennertus</hi> 5 treatiſes engliſhed</item>
+                  <item>30 <hi>D. Walker</hi> on the Epiſtles</item>
+                  <item>31 King. <hi>Henr.</hi> VIII. Primer Lat. Engl.</item>
+                  <item>32 <hi>Taylor</hi> contempt. on the ſtate of Man.</item>
+                  <item>33 The Doctrine of Devils</item>
+                  <item>34 <hi>Elborough</hi> on the Common Prayer</item>
+                  <item>35 Advice to Grand Juries in caſe of Blood</item>
+                  <item>36 <hi>Allen</hi>'s Addreſs to Nonconformiſt.</item>
+                  <item>37 <hi>Lloyd Solomon</hi>'s Song paraphraſed</item>
+                  <item>38 <hi>Carliſle</hi>'s 3 Embaſſies to <hi>Muſcovy</hi>
+                  </item>
+                  <item>39 Dr. <hi>More</hi>'s philoſophical Poems</item>
+                  <item>40 <hi>Van Helmont</hi>'s paradox. diſcourſes</item>
+                  <item>41 <hi>Selden</hi>'s Judicature of Parliament</item>
+                  <item>42 Smith de Graecae Eccleſ. ſtatu.</item>
+                  <item>43 Dr. <hi>Brown</hi>'s Garden of <hi>Cyrus</hi>
+                  </item>
+                  <item>44 Hiſt of the War of <hi>Cyprus</hi> with a map.</item>
+                  <item>45 — of <hi>William</hi> Prince of <hi>Orange</hi>
+                  </item>
+                  <item>46 <hi>Ramſey</hi> phiſ. diſcourſe of <hi>Wormes</hi>
+                  </item>
+                  <item>47 <hi>Rapin</hi> on <hi>Ariſtot.</hi> Poeſie</item>
+                  <item>48 <hi>Doleman</hi>'s Conference of Succeſ.</item>
+                  <item>49 Grand expedien. to ſuppreſs Popery</item>
+                  <item>50 Catalogue for Compounders of Eſtates.</item>
+                  <item>51 <hi>Philpot</hi>'s Origine of Heraldry</item>
+                  <item>52 <hi>Geber</hi>'s Works, the Arab. philoſ.</item>
+                  <item>53 Antiquities of <hi>Exeter</hi> with a map</item>
+                  <item>54 <hi>Steele</hi>'s diſcovery of old Age</item>
+                  <item>55 A cab. of invent. with the art of Ring.</item>
+                  <item>56 <hi>Lambart</hi>'s Con. on the Courts of Juſt.</item>
+                  <item>57 Life of K. <hi>Charles</hi> I. by <hi>Perinchiefe</hi>
+                  </item>
+                  <item>58 Aſſemb. Cat. examined</item>
+                  <item>59 <hi>Langford</hi>'s pract. Planter</item>
+                  <item>
+                     <pb n="12" facs="tcp:103692:9"/>60 <hi>Behns</hi> hiſt of Oracles</item>
+                  <item>61 <hi>Leſtrange Tullys</hi>'s Offices</item>
+                  <item>62 <hi>Faithorn</hi>'s art of engraving with Sculpt.</item>
+                  <item>63 Nuns complaint againſt the Friars</item>
+                  <item>64 The Alcoran of <hi>Mahomet</hi>
+                  </item>
+                  <item>65 <hi>Jennet</hi> of Primogeniture</item>
+                  <item>66 <hi>Wilkins</hi> natural Religion</item>
+                  <item>67 <hi>Goodall</hi> Vind. of the College of Phyſ.</item>
+                  <item>68 <hi>F. Paul</hi> hiſt. of the Inquiſition</item>
+                  <item>69 <hi>Playfords</hi> Introd. to Muſick</item>
+                  <item>70 <hi>Boyle</hi> excell. of Theology</item>
+                  <item>71 <hi>G. Harvey</hi> of the Scurvy</item>
+                  <item>72 <hi>Walker</hi> of Teleſcopes with Figures</item>
+                  <item>73 <hi>Culpeper</hi> of <hi>aurum potabile</hi>
+                  </item>
+                  <item>74 The Doctors Diſpenſatory</item>
+                  <item>65 <hi>Hudibraſs</hi> in 2 Vol. large Lett.</item>
+                  <item>66 Balneſt medic. magica</item>
+                  <item>67 <hi>Barkers</hi> art of angling</item>
+                  <item>68 <hi>Leybourn</hi> platform for builders, <hi>&amp;c.</hi>
+                  </item>
+                  <item>69 <hi>Harvey</hi> of Generation</item>
+                  <item>70 <hi>Grew</hi> Anat. of trunks with figures</item>
+                  <item>71 <hi>Gadburys</hi> aſtrolog. Seaman</item>
+                  <item>72 <hi>Butlers</hi> vindicat. of Aſtrology</item>
+                  <item>73 <hi>Flagellum,</hi> the Life of <hi>O. Cromwell</hi>
+                  </item>
+                  <item>74 <hi>Biddle</hi> of the Trinity</item>
+                  <item>75 Complete Angler</item>
+                  <item>76 Praxis Barbettina cum Not. Decker.</item>
+                  <item>77 De Graaf opera 1688</item>
+                  <item>78 Charter of <hi>Rumney Marſh</hi>
+                  </item>
+                  <item>79 The Roads of <hi>Eng.</hi> and <hi>Wal.</hi> deſcribed.</item>
+                  <item>80 Hiſt. of 12 not. Impoſtors</item>
+                  <item>81 A Geograph. deſcript. of the <hi>Amazons.</hi>
+                  </item>
+                  <item>82 Method of chymical phyſick</item>
+                  <item>83 Life of the Earl of <hi>Shaftsbury</hi>
+                  </item>
+                  <item>84 <hi>Simpſon</hi> of Fermentation</item>
+                  <item>79 <hi>Butler</hi> of the nativ. of our Saviour</item>
+                  <item>80 Collect. of 10 chym. Treatiſes</item>
+                  <item>81 <hi>Mores</hi> Antidote againſt Atheiſm</item>
+                  <item>82 Enchyridion phyſ. reſtitut. Eng.</item>
+                  <item>83 <hi>Quevedos</hi> Viſions</item>
+                  <item>84 <hi>Witties</hi> popular Errors in phyſ.</item>
+                  <item>85 <hi>Barbetts</hi> Chirurgery</item>
+                  <item>86 <hi>Cauſabon</hi> of Enthuſiaſm</item>
+                  <item>87 <hi>Gnidot</hi> of <hi>Bath</hi> with Fig.</item>
+                  <item>88 Deſcript. of the Iſland <hi>Samos.</hi>
+                  </item>
+                  <item>89 <hi>Rycaut</hi> account of the <hi>Greek</hi> Churches.</item>
+                  <item>90 Liquor Alchaheſt</item>
+                  <item>91 The Reconciler of the Bible</item>
+                  <item>92 <hi>Floier</hi> touchſtone of medicines</item>
+                  <item>93 Deaf and dumb man's diſcourſe</item>
+                  <item>94 <hi>Harris</hi> Diſcourſe of Remedies</item>
+                  <item>95 <hi>Thompſons</hi> method of curing Chem.</item>
+                  <item>96 <hi>Mores</hi> Remarks on Judge <hi>Hales'</hi>
+                  </item>
+                  <item>97 <hi>Thebants</hi> art of chymiſtry</item>
+                  <item>98 <hi>Sherley</hi> philoſ. Eſſay</item>
+                  <item>99 Sir <hi>Geo. Ripleys</hi> chym. Works.</item>
+                  <item>100 <hi>Charras</hi> exper. on Vipers</item>
+               </list>
+            </div>
+            <div type="part">
+               <head>Engliſh Miſcellanies in Folio.</head>
+               <list>
+                  <item>1 <hi>LOndon</hi> ſurveyed in a map of the City explained by <hi>Ogilby</hi> and <hi>Morgan</hi> 1677</item>
+                  <item>2 The Travels and Adventures of Captain <hi>Smith</hi> in <hi>Europe, Aſia, Africa</hi> and <hi>A<g ref="char:EOLhyphen"/>merica,</hi> with a general hiſt. of <hi>Virginia, New England,</hi> and the Summer Iſlands.</item>
+                  <item>3 The hiſt of <hi>Guicciarden,</hi> of the Wars in <hi>Italy</hi> and other parts 1579</item>
+                  <item>4 A vindication of the Government of the Kingdoms of <hi>England,</hi> by <hi>F. Phillips</hi> 1687</item>
+                  <item>5 <hi>Dubartas</hi> divine weeks and works by <hi>Sylveſter</hi> 1641</item>
+                  <item>6 The hiſt. of the Wars of <hi>Italy</hi> by <hi>Capriola,</hi> Eng. by the Earl of <hi>Monmouth</hi> 1663</item>
+                  <item>7 The hiſt. of <hi>Nero Caeſar,</hi> or Monarchy depraved, the travels of Capt. <hi>Smith</hi> into <hi>Europe, Africa, Aſia</hi> and <hi>America, Xenophons</hi> hiſtory of <hi>Cyrus</hi>
+                  </item>
+                  <item>8 A deſcript. of the body of man, with the anatomy thereof by <hi>H. Crooke,</hi> laſt Edition.</item>
+                  <item>9 An Expoſition on the Creed by Biſhop <hi>Pearſon</hi> 1692</item>
+                  <item>10 A rational account of the Prof Rel. being a vind. of Biſh. <hi>Laud</hi> by Biſh. <hi>Stillingfleet.</hi>
+                  </item>
+                  <item>11 Biſh. <hi>Stillingfleets Origines Britannicae,</hi> or Antiquities of the Britiſh Churches</item>
+                  <item>12 T treatiſe of Algebra both hiſtorical and political by Dr. <hi>Wallis</hi> 1685</item>
+                  <item>13 The Sphere of <hi>M. Manilius,</hi> with annotations and ſculptures by <hi>E. Sherbourn</hi> 1675</item>
+                  <item>14 The Golden Legend, or Lives of the Saints, the Gothick Letter</item>
+                  <item>15 King <hi>Edward</hi> the Sixth's Common Prayer 1549</item>
+                  <item>
+                     <pb n="13" facs="tcp:103692:9"/>16 Inſtitution of Chriſtian Religion, in engl. by <hi>Calvin</hi>
+                  </item>
+                  <item>17 <hi>De pace Regis &amp; Regni,</hi> of aſſaults, batteries, routs, <hi>&amp;c.</hi> by <hi>F. Pulton</hi> 1609</item>
+                  <item>18 <hi>Eraſmus</hi> Paraphraſe on the Evangeliſts and Acts of the Apoſtles</item>
+                  <item>19 Letters to the Duke of <hi>Eſpernoon,</hi> Card. <hi>Richlieu,</hi> and other great Perſons in <hi>France,</hi> with a Play in latin, called <hi>Labyrinthus,</hi> MS.</item>
+                  <item>20 Muſick book ruled 5 lines clean</item>
+                  <item>21 <hi>Cudworth</hi> on the ſacrament of the Lord's ſupper</item>
+                  <item>22 108 ſermons on S. <hi>John</hi> by <hi>Arthur Hilderſham</hi>
+                  </item>
+                  <item>23 Sir <hi>W. Dugdale</hi> hiſt. of S. <hi>Paul</hi>'s Cathedral <hi>London,</hi> with Figures 1658</item>
+                  <item>24 — Antiquities of <hi>Warwickſhire</hi> with ſculptures 1656</item>
+                  <item>25 — Origines Judiciales, ſecond Edition 1671</item>
+                  <item>26 — of the draining of the Fenns 1662</item>
+                  <item>27 Manuſcript divinity, lat. engl.</item>
+                  <item>28 <hi>Hookers</hi> Eccleſiaſtical policy, with other tracts and ſermons</item>
+                  <item>29 <hi>W. Leyborn</hi>'s whole Art of ſurveying Land, with the taking heights and diſtances</item>
+                  <item>30 L. <hi>Mornay</hi> hiſt. of the Maſs and circumſtances thereof</item>
+                  <item>31 <hi>W. Knights</hi> concordance to the holy ſcriptures</item>
+                  <item>32 <hi>Whitgift</hi>'s defence of the Church of <hi>England,</hi> againſt <hi>Cartwright</hi>
+                  </item>
+                  <item>33 Works of <hi>W. Perkins</hi> in 3 Vol.</item>
+                  <item>34 <hi>Clavel</hi>'s Catalogue of books to the year</item>
+                  <item>35 Obſervations on <hi>Caeſar</hi>'s Commentaries by <hi>Cl. Edmunds</hi> with Figures</item>
+                  <item>36 A Treatiſe of Juſtification, againſt Cardinal <hi>Bellarmine</hi> by Dr. <hi>Downham.</hi>
+                  </item>
+                  <item>37 Book of Homillies or Sermons to be read in Churches and Families</item>
+                  <item>38 The Vocal Foreſt, with the names of the Countries and Perſons mention. by <hi>J. Howell.</hi>
+                  </item>
+                  <item>39 The <hi>London Diſpenſatory,</hi> Engliſh'd by <hi>Culpeper</hi> with <hi>Galen</hi>'s Art of Phyſick</item>
+                  <item>40 The true Church ſhewed to all men, by Dr. <hi>Williams</hi>
+                  </item>
+                  <item>41 The Engliſh <hi>Atlas,</hi> by <hi>Pitts,</hi> in 5 Vol. with Maps</item>
+                  <item>42 A large and compleat Concordance to the Holy Bible by <hi>S. Newman</hi>
+                  </item>
+                  <item>43 The Doctrine of Nativities, the whole Art of Directions by <hi>J. Gadbury</hi>
+                  </item>
+                  <item>44 The Cuſtoms of <hi>Normandy</hi>
+                  </item>
+                  <item>45 <hi>Stanley</hi>'s Lives of the Philoſophers 4 Vol. with Figures 1660</item>
+                  <item>46 <hi>Burton</hi>'s Commentary on <hi>Antoninus</hi> Itinerary, with a Map of the Stations 1658</item>
+                  <item>47 <hi>Digby</hi> of the Nature of Bodies, and of Mans Soul, large Paper 1644</item>
+                  <item>48 The Rogue, or the Life of <hi>Guzman de Alfarache</hi> 1630</item>
+                  <item>49 The Hiſtory of the Wars in <hi>Ireland,</hi> with 17 Maps by Sir <hi>Geo. Cary</hi> 16<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>3</item>
+                  <item>50 The Hiſtory of <hi>Appian</hi> of <hi>Alexandria,</hi> of the <hi>Punick, Parthian, &amp;c.</hi> Wars 1679</item>
+                  <item>51 <hi>Davis</hi>'s Hiſtory of the <hi>Caribby Iſlands,</hi> both natural and Moral with Figures 1666</item>
+                  <item>52 Hiſtorical Collections of the 4 laſt Parliaments of Q. <hi>Eliz</hi> by <hi>Townſend</hi> 1680</item>
+                  <item>53 <hi>Sleiden</hi>'s hiſtory of the Reformation, begun by <hi>M. Luther</hi> in <hi>Germany</hi> 1689</item>
+                  <item>54 A Preparation to the reading of the Pſalter by <hi>Withers</hi>
+                  </item>
+                  <item>55 The Works of the learned Sir <hi>Tho. Brown</hi> Dr. of Phyſick 1686</item>
+                  <item>56 <hi>T. Livius</hi> Roman hiſtory with the Supplement of <hi>J. Franſhemius</hi> Engl. 1686</item>
+                  <item>57 Biſhop <hi>Andrews</hi> Expoſition on the Commandments and Lord's Prayer 1642</item>
+                  <item>58 Sir <hi>T. Herbert</hi>'s Travels with Figures. 1634—<hi>Xenophon</hi>'s Life of <hi>Cyrus</hi> 1632</item>
+                  <item>58 Obſervations of Sir <hi>R. Hawkins</hi> in his Voyage into the ſouth ſea 1627</item>
+                  <item>59 The Siege of <hi>Bredah,</hi> Illuſtrated with ſeveral Figures</item>
+                  <item>60 <hi>Foulis</hi> Hiſtory Popiſh-Treaſons and Uſurpations 1671</item>
+                  <item>61 The hiſt. of the Low-Coun. Wars, by <hi>Strada,</hi> engl by Sir <hi>R. Stapleton,</hi> with Fig. 1650</item>
+                  <item>62 A Genealogical hiſt. of the Kings of <hi>England,</hi> with their Eff. by <hi>F. Sandford</hi> 1677</item>
+                  <item>63 The hiſt. of that victorious Monarch K. <hi>Edward</hi> III. by <hi>J. Barnes</hi> 1688</item>
+                  <item>
+                     <pb n="14" facs="tcp:103692:10"/>64 <hi>Britannia,</hi> or a Chorographical Deſcription of <hi>Eng. Scot.</hi> and <hi>Ireland,</hi> by <hi>W. Camden</hi>
+                  </item>
+                  <item>65 The Works of K. <hi>Charles</hi> the Martyr. 1662</item>
+                  <item>* 65 Annals of <hi>Corn. Tacitus,</hi> with the Deſcription of <hi>Germany</hi> 1622</item>
+                  <item>66 Remarks upon the Lives of all Kings of <hi>England</hi> by Sir <hi>W. Churchil</hi>
+                  </item>
+                  <item>67 The hiſt. of the houſes of <hi>Douglas</hi> and <hi>Angus</hi> cont. mem. paſſ. in <hi>Scotland</hi> 1648</item>
+                  <item>68 The Laws of Eccleſiaſtical Policy, with diſcourſes and ſermons by <hi>R. Hooker</hi> 1650</item>
+                  <item>69 The hiſt of <hi>Ireland</hi> by <hi>E. Campion</hi> and <hi>Mer. Hanmer — Dub.</hi> 1633</item>
+                  <item>70 159 ſermons on the book of <hi>Job</hi> by <hi>Calvin</hi>
+                  </item>
+                  <item>71 The hiſt of <hi>Venice,</hi> with the battel of <hi>Lepanto,</hi> by the E. of <hi>Monmouth</hi> 1658</item>
+                  <item>72 A diſcourſe concerning the Freedom of the Will, by P. <hi>Sterry</hi> 1675</item>
+                  <item>73 <hi>Graphice,</hi> or the Art of Painting by <hi>W. Sanderſon,</hi> with Fig. 1658</item>
+                  <item>74 <hi>Pharamond,</hi> or the hiſt. of <hi>France,</hi> a famed Romance 1677</item>
+                  <item>75 D. <hi>Howell</hi>'s hiſtory of the World 2 Vol. 1661</item>
+                  <item>76 The Royal <hi>Pharmacopoea</hi> Galen. and Chym. by <hi>M. Charras.</hi> with Copp. Plates 1678</item>
+                  <item>77 The Civil Wars of <hi>England</hi> between <hi>York</hi> and <hi>Lancaſter,</hi> both parts by <hi>Bion.</hi> 1641</item>
+                  <item>78 New World of Engl. words or general Engliſh Dictionary interleav'd 1671</item>
+                  <item>79 <hi>Cox</hi> hiſt. of <hi>Ireland</hi> from the Conqueſt to 1690. 2 Vol. 1690</item>
+                  <item>80 130 ſermons by <hi>Dr. Down</hi> dean of <hi>Pauls</hi> 1640</item>
+                  <item>81 Royal and practical Chymiſtry, by <hi>Crollius</hi> and <hi>Hartman</hi> 1670</item>
+                  <item>82 The univerſal Body of Phyſick. in 5 Books by <hi>Riverius</hi> 1657</item>
+                  <item>83 The Tragedy of <hi>Croeſus, Darius, Alexander, usulius Caeſar,</hi> with other Poems by <hi>Wil.</hi> Earl of <hi>Sterlin</hi>
+                  </item>
+                  <item>84 A phyſical dictionary, being the tranſlation of <hi>Raenodeus</hi> diſpenſatory 1657</item>
+                  <item>85 <hi>Burton</hi>'s Anatomy of Melancholy 1638</item>
+                  <item>86 Sir <hi>W. Dugdales</hi> ſummons of the Nobility to Parliaments. 1685</item>
+                  <item>87 Dr. <hi>Goads</hi> aphoriſms and diſcourſes of the Bodies coeleſtial 1686</item>
+                  <item>88 Sir P. <hi>Leiceſter</hi>'s Antiquities of <hi>Cheſhire</hi> and <hi>Ireland</hi> 1673</item>
+                  <item>89 The hiſt. of the Council of <hi>Trent,</hi> by Father <hi>Paul</hi> 1640</item>
+                  <item>90 L. <hi>Bacon</hi>'s natural hiſtory, with the hiſt. of life and death 1651</item>
+                  <item>91 <hi>D. Brady</hi>'s Introduction to old Engliſh hiſt. with a Gloſſary 1684</item>
+                  <item>92 — a compleat hiſt. of <hi>England</hi> from the <hi>Romans</hi> to K. <hi>Hen.</hi> III. 1685</item>
+                  <item>93 Sir <hi>W. Raliegh</hi>'s hiſt. of the World 1614</item>
+                  <item>94 <hi>Alex. Roſs</hi> Continuation of Sir <hi>W. Raleigh</hi> 1652</item>
+                  <item>95 The Book of Martyrs in 2 Vol. boſſed 1673</item>
+                  <item>96 <hi>John Speed</hi>'s Mapps of <hi>England, Scotland</hi> and <hi>Ireland,</hi> 1614</item>
+                  <item>97 <hi>Hen. Iſaacſon</hi> chronological ſeries of the 4 Monarchies 1633</item>
+                  <item>98 The hiſt. of K. <hi>John, Hen.</hi> III. and <hi>Edw.</hi> I. by <hi>W. Prynne</hi> 1670</item>
+                  <item>99 — of <hi>Europe,</hi> but particularly the Repub. of <hi>Venice</hi> engliſhed by Sir <hi>R. Honiwood</hi>
+                  </item>
+                  <item>100 Ayres and Dialogues to be ſung by the <hi>Theorbo, Lute,</hi> or <hi>Baſe Viol</hi> by <hi>J. Gamble</hi> 1656</item>
+                  <item>101 Hiſt of the Lives of the Kings of <hi>England</hi> by <hi>W. Martin</hi>
+                  </item>
+                  <item>102 <hi>Fairy Queen,</hi> with the other Works of <hi>E. Spencer</hi>
+                  </item>
+                  <item>103 Hiſt. of <hi>Polybius,</hi> engliſhed by <hi>E. Grimſtone</hi> 1634</item>
+                  <item>104 <hi>Barclay</hi> his <hi>Argenis,</hi> or the Loves of <hi>Poliarchus</hi> and <hi>Argenis</hi> by <hi>K. Long</hi>
+                  </item>
+                  <item>105 Hiſt. of <hi>Geo. Caſtriot,</hi> named <hi>Scanderbeg</hi> King of <hi>Alanio</hi>
+                  </item>
+                  <item>106 Cuſtoms of the City of <hi>London,</hi> an antient book</item>
+                  <item>107 <hi>Guillim</hi>'s Diſplay of Heraldry, the Arms painted</item>
+                  <item>108 <hi>Euſebius</hi> Eccleſiaſtical hiſt. of the Church</item>
+                  <item>109 Works of <hi>Geof. Chancer,</hi> with his Life 1602</item>
+                  <item>110 Eccleſiaſtical hiſt. of <hi>Scotland,</hi> by <hi>Knox</hi> large paper</item>
+                  <item>111 <hi>Batman</hi> upon <hi>Bartholomew</hi> of the propriety of things, by <hi>Caxton</hi>
+                  </item>
+                  <item>112 <hi>De la Val</hi>'s travels into <hi>Eaſt India, Arabia deſeria, &amp;c.</hi> 1665</item>
+                  <item>
+                     <pb n="15" facs="tcp:103692:10"/>113 Memorials of the Engliſh Affairs, by <hi>B. Whitlock</hi> 1682</item>
+                  <item>114 A learned Commentary of Peter Martyr on the Romans</item>
+                  <item>115 A Paper Book, containing about 10 Quire, ruled</item>
+                  <item>116 The Chriſtian Warfare, againſt the World, Fleſh, and Devil, by Dr. <hi>Downam</hi>
+                  </item>
+                  <item>117 The whole Art of Painting by <hi>R. Hadock</hi>
+                  </item>
+                  <item>118 A Manuſcript of Law Preſidents</item>
+                  <item>119 A Lexicon, Latin and Engliſh, by Alvarius</item>
+                  <item>120 <hi>Eraſmus</hi> on the Evangeliſts and Acts of the Apoſtles</item>
+                  <item>121 A Paper Book, containing about 5 Quire</item>
+                  <item>122 A Commentary on <hi>Philemon</hi> and the <hi>Hebrews,</hi> by Dr. <hi>Jones</hi>
+                  </item>
+                  <item>123 <hi>Digby,</hi> of the Nature of Bodies and Souls, large Paper</item>
+                  <item>124 <hi>Flora,</hi> or the complete Floriſt, by <hi>J. Rea</hi> 1676</item>
+                  <item>125 New World of Engliſh VVords, by <hi>Philips,</hi> laſt Edition</item>
+                  <item>126 <hi>Summers</hi>'s Saxon, Latin, and Engliſh Dictionary — <hi>Ox.</hi> 1659</item>
+                  <item>127 <hi>Elton</hi>'s Commentary on the <hi>Coloſſians,</hi> in ſeveral Sermons</item>
+                  <item>128 The Saints Cordials, in ſeveral Sermons, by Dr. <hi>Sibs</hi>
+                  </item>
+                  <item>129 The beſt Religion, in ſeveral Sermons, by Dr. <hi>Williams</hi>
+                  </item>
+                  <item>130 Three Law Manuſcripts bound in ruff Calves Leather</item>
+                  <item>131 The Counteſs of <hi>Pembroke</hi>'s <hi>Arcadia</hi>
+                  </item>
+                  <item>132 Dr. <hi>Willet</hi>'s ſix-fold Commentary on the <hi>Romans</hi>
+                  </item>
+                  <item>133 The Works of <hi>Will. Cooper,</hi> Biſhop of <hi>Galloway</hi>
+                  </item>
+                  <item>134 <hi>Gerrard</hi>'s Herbal, with <hi>Johnſon;</hi> the laſt Edition</item>
+                  <item>135 The Works of Mr. <hi>Rich. Hooker</hi> 1670</item>
+                  <item>136 The Hiſtory of the Life and Death of our Saviour Jeſus Chriſt, by B. <hi>Taylor</hi> 1653</item>
+                  <item>137 <hi>Burton</hi>'s Anatomy of Melancholy 1632</item>
+                  <item>138 A Body of Divinity in ſeven Treatiſes, by Mr. <hi>Rogers</hi> of <hi>Eſſex</hi>
+                  </item>
+                  <item>139 Four Tracts by <hi>J. Selden, viz. Jani Anglor. England</hi>'s Epinomic. Orig. of Eccleſ. Juriſdiction, and of Inteſtates Goods 1683</item>
+                  <item>140 <hi>Ogilby</hi>'s <hi>Britania,</hi> or Illuſtration of the Kingdom of <hi>England</hi> and <hi>Wales</hi>
+                  </item>
+                  <item>141 — An accurate Deſcription of <hi>America,</hi> with Maps and Figures</item>
+                  <item>142 — An Embaſſy to the Emperor of <hi>China,</hi> with Maps</item>
+                  <item>143 — Hiſtory of <hi>Japan,</hi> with Maps</item>
+                  <item>144 — <hi>Virgil</hi> tranſlated, with Sculptures, firſt Edition</item>
+                  <item>145 — <hi>Homer</hi>'s Iliads and Odyſſes, in 2 Vol. tranſlat. with Sculptures</item>
+                  <item>146 — <hi>Eſop</hi>'s Fables, tranſlated, in 2 Vol. with figures</item>
+                  <item>147 <hi>Speed</hi>'s Maps of <hi>England, Scotland,</hi> and <hi>Ireland,</hi> laſt. Edition</item>
+                  <item>148 <hi>Dugdale</hi>'s Baronage of <hi>England,</hi> in 2 Vol. large Paper</item>
+                  <item>149 <hi>Atlas,</hi> or a Deſcription of <hi>Europe Aſia, Africa,</hi> and <hi>America,</hi> with exact Maps curiouſly coloured, in 2 Vol. by <hi>H. Hondius</hi> and <hi>J. Johnſon</hi> 1636</item>
+               </list>
+            </div>
+            <div type="part">
+               <head>Engliſh Miſcellanies in Qrarto.</head>
+               <list>
+                  <item>1 A New Light to Alchimy, with a Treatiſe of Sulphure, by <hi>Sandivogius</hi>
+                  </item>
+                  <item>2 New Eſſays and Obſervations, Divine and Moral, by <hi>J. Robinſon</hi>
+                  </item>
+                  <item>3 <hi>Napier</hi> on the Revelations, with <hi>Gregory</hi>'s Notes on the Scripture</item>
+                  <item>4 A curious Chronicle of the 4 Monarchies</item>
+                  <item>5 <hi>Cabala,</hi> Myſteries of State in the time of K <hi>James</hi> and K. <hi>Charles</hi> the Firſt</item>
+                  <item>6 The Eccleſiaſtical Hiſtory of <hi>France,</hi> to the year 1676.</item>
+                  <item>7 The Country Farmer, or Directions for Husbandry.</item>
+                  <item>8 The Hiſtory of the Church of <hi>England,</hi> by <hi>Ven. Bede</hi>
+                  </item>
+                  <item>9 The Hiſtory of the <hi>Weſt-Indies <gap reason="illegible" resp="#UOM" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap>
+                     </hi>
+                  </item>
+                  <item>
+                     <pb n="16" facs="tcp:103692:11"/>10 <hi>Summum Bonum,</hi> or the Felicity of Man, by Sir <hi>R. Barcklay</hi> 1603</item>
+                  <item>11 <hi>Iatrica, ſeu Praxis Medendo;</hi> or <hi>Salmon</hi>'s Hiſtory of famous Cures</item>
+                  <item>12 The Blazon of Gentry, or the Glory of Generoſity, by <hi>J. Ferne</hi>
+                  </item>
+                  <item>13 <hi>Gorges America</hi> painted to the Life 1659</item>
+                  <item>14 The Voyages and Travels of Sir <hi>Fran. Drake</hi> 1653</item>
+                  <item>15 The Life and Death of K. <hi>Henry</hi> the Fourth of <hi>France</hi>
+                  </item>
+                  <item>16 Poems, by Dr. <hi>J. Donne,</hi> with Elegies</item>
+                  <item>17 The Hiſtory of the <hi>Weſt-Indies,</hi> of the Spaniards Acts there, by Mr. <hi>Hackluyt</hi>
+                  </item>
+                  <item>18 An Ephemerides of the Celeſtial Motions to the year 1701. by <hi>J. Gadbury</hi>
+                  </item>
+                  <item>19 The Mathematical Works of <hi>Ed. Gunter</hi>
+                  </item>
+                  <item>20 The Hiſtory of <hi>Great Britain,</hi> with Genealogies</item>
+                  <item>21 <hi>Diodales,</hi> Annotations on the Old and New Teſtament 1648</item>
+                  <item>22 The Court of the Gentiles, compleat, by <hi>T. Gale</hi> 1672</item>
+                  <item>23 The Life and Death of our Lord Jeſus Chriſt, by <hi>Ob. Walker</hi>
+                  </item>
+                  <item>24 <hi>Godwin</hi>'s Catalogue of Biſhops</item>
+                  <item>25 <hi>Bates</hi>'s Fire Works, with figures</item>
+                  <item>26 Sir <hi>Chryſt. Heydon</hi>'s Defence of Aſtrology</item>
+                  <item>27 The Compleat Gentleman; Directions for Painting, Heraldry, &amp;c. by Dr. <hi>Peacham</hi>
+                  </item>
+                  <item>28 A View of the Towns of <hi>England,</hi> by Sir <hi>Henry Spelman</hi>
+                  </item>
+                  <item>29 <hi>Rob. Callis</hi> Reading on the Statute of Sewers</item>
+                  <item>30 The Annals of Queen <hi>Elizabeth,</hi> in 2 Vol. by <hi>Ab. Darcey</hi>
+                  </item>
+                  <item>31 <hi>P. F.</hi> Account of Tombs and Monuments in S. <hi>Paul</hi>'s Cathedral</item>
+                  <item>32 A Diſcourſe of Fire and Salt. — Five Treatiſes of the Philoſophers Stone, by <hi>Alphonſus</hi> King of <hi>Portugal, J. Sautry,</hi> a Monk, <hi>W. Grataroll,</hi> with the <hi>Sma<g ref="char:EOLhyphen"/>ragdine</hi> Table.— <hi>Plat</hi>'s Jewel-Houſe of Art and Nature</item>
+                  <item>33 Compound of Alchimy. — <hi>M. Romani de Tranſmutat. Metallorum. — Becher</hi> Philoſophers Stone expoſed to light. — <hi>Roger Bacon</hi> Mirror of Alchimy.— <hi>Majerus de Auro. — Acton</hi> Chym. Phyſick vindicated. — <hi>London</hi> Diſtiller. The Gradation of Gold.— <hi>Untzerus du Balſamo Sulphuris</hi>
+                  </item>
+                  <item>34 <hi>Geber &amp; Lully de Alchimeia.—Paracelſus</hi> Exper. &amp; Secrets.— Jewel-Houſe of Art and Nature.— <hi>Helmont</hi> and <hi>Paracelſus</hi> Virtues of the great Antidote.—Key to <hi>Helmont,</hi> with <hi>Caſe</hi>'s Anſwer to it.</item>
+                  <item>35 <hi>Apologia pro Auro potabile.— Cotta</hi> againſt the ſame. — <hi>Evans</hi> Virtues of the Antimonial Cup. — <hi>Foſter</hi> againſt the Weapon Salve. — <hi>Schenckius de Lytho geneſia Pathologia hiſtorica, cum figuris.</hi>— Natural Hiſtory of Coffee, Tea, and Chocolate.— <hi>Evelyn,</hi> of the Smoak in <hi>London. Reynolds</hi> of prodigious Abſtinence.—Collection of Secrets in Phyſick.</item>
+                  <item>36 <hi>Eliot</hi>'s Caſtle of Health.—New Compoſt for barren Land.—The Path-way to health. <hi>Cotta</hi> againſt Empericks.— Account of <hi>Virginia.—Frederick</hi>'s Voyage to the <hi>E. Indies.</hi>
+                  </item>
+                  <item>37 <hi>B. Valentine, Tho. Norton &amp; Cremeri Tractate Chymici</hi>
+                  </item>
+                  <item>38 Remonſtrance of the E. <hi>India</hi> Comp.—Accont of the Soap Trade.—<hi>Keymar's</hi> Obſerv. on the <hi>Dutch</hi> Fiſhing.—<hi>Coke,</hi> of Trade and Navigat.—Caſe of Bankers and their Creditors.—Propoſ. for building a Work-Houſe for making Lin-Cloth.—<hi>Englands</hi> Happineſs in her Wealth.—Propoſ. for employing the Poor.—The <hi>French</hi> Uſur<g ref="char:EOLhyphen"/>pation on the Trade of <hi>Engl.—Collins</hi>'s Plea for the bringing in the <hi>Iriſh</hi> Cattel. A Bank for Credit made currant in <hi>London.</hi>—Inſtructions for Rent Gatherers.</item>
+                  <item>39 <hi>Coke, Magna Charta,</hi> with Notes.—Of Patronage, with the Orig. of it.—A Plea for the Pardoning part of the Sovereignty of the Kings of <hi>Engl</hi>—Reaſ. for a Regiſtry. Reaſ. againſt the ſame.—A Treat. of Taxes and Contribut.—Account of <hi>Scotlands</hi> Grievances under the D. of L.—A Vindicat. of his Majeſt Government in <hi>Scotl.</hi>
+                  </item>
+                  <item>
+                     <pb n="17" facs="tcp:103692:11"/>40 Wegelius Theologio Theologized— Gells Stella Nova— <hi>Lilly</hi>'s Starry Meſ<g ref="char:EOLhyphen"/>ſenger — <hi>Wharton</hi>'s Judgment, Aſtronomical — <hi>Lilly</hi> Worlds Cataſtrophe— His Aſtrological Predictions — Collection from <hi>Ja. Behmen</hi>'s Miſtica VVritings — <hi>Sage</hi>'s Sick Mens Glaſs</item>
+                  <item>41 Viſion of <hi>Pierce Plowman</hi> — The Monarch in 4 Books — <hi>J. Heywoods</hi>'s Work</item>
+                  <item>42 Bohemaca Jura — <hi>F. Paul</hi>'s Anſwer to the Pope's Bull — <hi>Bellarminus</hi> Reſponſ ad Gerſon — Diſcovery of <hi>Spaniſh</hi> Practices — De Novae Sodalitiate in Ger<g ref="char:EOLunhyphen"/>mania — Diſcourſe upon the Affairs of <hi>Europe</hi> — Political Diſcourſe of the Supreme Magiſtrate — Animadverſions on <hi>Burnet</hi>'s Rights of Princes. — De Obligatione Princip. Suetiae— Kingdom of <hi>Sweden</hi> reſtored</item>
+                  <item>43 <hi>Broughton</hi>'s treatiſe of <hi>Melchizedeck — Ib.</hi> of the Tranſlation of the Bible <hi>Ib.</hi> of Idol Temples and the High-Preiſt's Epod — A ſhort view of the <hi>Perſian</hi> Monarchy — Tranſlatio Epiſtolae Hebraicae, Lat. Gr. Eng.</item>
+                  <item>44 Rex Platonicus, ſive Muſae Regnantes — <hi>Fenton</hi> of Uſ<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>y — The Glaſs of Government — A Treatiſe of Idleneſs, Plays, Enterludes — Brief Conclu<g ref="char:EOLhyphen"/>ſions of Dancers and Dancing</item>
+                  <item>45 <hi>Norden</hi>'s Deſcription of <hi>Middleſex,</hi> with <hi>Bedwel</hi>'s Deſcription of <hi>Tottenham</hi> — Re<g ref="char:EOLhyphen"/>ges, Reginae, Nobiles &amp; Alii in Eccleſia Collogiata B. Petri VVeſtmonaſterii Se<g ref="char:EOLhyphen"/>pulti — Monumenta Sepulchraria S. Pauli — Spelman de Sepultura — Naun<g ref="char:EOLhyphen"/>ton fragmenta Regalia — The High-way to the Spittle-Houſe, by <hi>Copland</hi>—De Angliae Regni Genio, Datibus ac Moribus</item>
+                  <item>46 Notitia Oxionenſ. Academia — Epiſt. Tho. Mori ad Acad. Oxon — J. Selden de Nummis — A Book of Coins in Dutch — Brerewood de Nummis — <hi>Charlton</hi> of Stone-Heng — Septem Eccleſ. Aſiae Notitia — An Eſſay on the Inſcription of <hi>Mac-Duff</hi>'s Croſs in Fife— Denarius S. Petri</item>
+                  <item>47 <hi>Boy'ls</hi> Uſefulneſs of Experimental Philoſophy 1664</item>
+                  <item>48 — Of the Spring of the Air 1662</item>
+               </list>
+            </div>
+            <div type="part">
+               <head>Engiiſh Miſcellanies in Octavo</head>
+               <list>
+                  <item>1 <hi>ERaſmus</hi> of the Scriptures. <hi>Zuni<g ref="char:EOLhyphen"/>glius</hi> of the Death and Reſurre<g ref="char:EOLhyphen"/>ction of Chriſt</item>
+                  <item>2 <hi>J. Brentius</hi>'s Sermons on St. <hi>John</hi>
+                  </item>
+                  <item>3 A Coroſive to lay to the heart. The Imitation of Vertue. <hi>J. Ocolampadius</hi>'s Sermon. Epiſtles of <hi>Bullinger, Calvin,</hi> with many other Tracts</item>
+                  <item>4 The burning of St. <hi>Paul</hi>'s-Church. The Authority of the Word againſt Biſhop <hi>Bonner</hi>
+                  </item>
+                  <item>5 Complaint of <hi>R. Mors</hi> a Grey-Fryer, with an ancient Book of Chriſt. Inſtit.</item>
+                  <item>6 <hi>Bonner</hi>'s Articles, publiſhed by <hi>J. Bale</hi>
+                  </item>
+                  <item>7 Bp. <hi>Hooper</hi>'s ſeven Sermons on <hi>Jonas</hi>
+                  </item>
+                  <item>8 K. <hi>Hen.</hi> the VIII. Primmer in Engliſh. <hi>T. Waters</hi>'s Prayer. The Litany uſed in Q. <hi>Eliz.</hi> Chappel. <hi>Smith</hi>'s Buckler of Catholick Faith</item>
+                  <item>9 <hi>F. P.</hi> Hiſtory of <hi>Portugal</hi> 1677</item>
+                  <item>10 <hi>Gaffarel</hi>'s unheard or Curioſities</item>
+                  <item>11 <hi>De Graaf</hi> of the Pancreatick Juice</item>
+                  <item>12 Account of a late Voyage to <hi>Athens</hi>
+                  </item>
+                  <item>13 Difference between <hi>France, Spain,</hi> and the Emperour</item>
+                  <item>14 <hi>Digs</hi>'s Unlawfulneſs of Subjects taking of Arms</item>
+                  <item>15 A New Hiſtory of <hi>China</hi> 1688</item>
+                  <item>16 <hi>B. Valentine</hi> laſt Will and Teſtament</item>
+                  <item>17 Opus tripartitum. De Phylois Arcami</item>
+                  <item>18 Diſcour. of Artific. Beauty, by D. <hi>Taylor</hi>
+                  </item>
+                  <item>19 Comical Hiſtory, World in the Moon</item>
+                  <item>20 Pſalms in 4. Parts, with Notes</item>
+                  <item>21 Introductio ad Latinam Blaſoniam</item>
+                  <item>22 The Eſtate of the Emp. with the Laws</item>
+                  <item>23 Hiſt. of the Sevarites in 2 Parts Comp.</item>
+                  <item>24 Collection of the Nobility and Gen<g ref="char:EOLhyphen"/>try from the Law</item>
+                  <item>25 Vindication of the Laws of the Church and State of <hi>Scotland,</hi> by Biſhop <hi>Burnet</hi>
+                  </item>
+                  <item>26 Hiſtorical Collections of 14 Centuries</item>
+                  <item>27 Hiſtory of the houſe of <hi>Eſte</hi>
+                  </item>
+                  <item>28 <hi>Bohun,</hi> of the Origin of wind</item>
+                  <item>29 <hi>Addiſon</hi>'s preſent State of the Jews</item>
+                  <item>
+                     <pb n="18" facs="tcp:103692:12"/>30 <hi>Lucius Florus</hi> Roman Hiſtory, Engliſh</item>
+                  <item>31 The Painter's Voyage of <hi>Italy</hi> with fig.</item>
+                  <item>32 <hi>Randal</hi>'s Poems and Plays</item>
+                  <item>33 Earl of <hi>Sandwich</hi>'s Art of Metals</item>
+                  <item>34 <hi>Bartlet</hi>'s Chyrur. with the Surg. Cheſt</item>
+                  <item>35 <hi>R. Sanders</hi>'s Palmeſtry and Chyrom.</item>
+                  <item>36 Poems and Songs, by <hi>Thomas Flatmam</hi>
+                  </item>
+                  <item>37 <hi>Langhorn</hi>'s Introd. to the hiſt. of <hi>Eng.</hi>
+                  </item>
+                  <item>38 A Deſcription of <hi>Greece, Italy, Natolia, Hungary,</hi> &amp;c. A Map with Figures of the Cities, in <hi>Dutch</hi>
+                  </item>
+                  <item>39 <hi>Cooper</hi>'s Catologue of Chymic. Books</item>
+                  <item>40 <hi>Scot</hi> of the Philoſophical Elixir</item>
+                  <item>41 Laws of the Roſie Croſs</item>
+                  <item>42 J. Trithemii de Intelligentiis</item>
+                  <item>43 <hi>Aſhmoles</hi>'s Chym. Collections</item>
+                  <item>44 Notary Art of Soloncon</item>
+                  <item>45 Aſtrology. Theologizata</item>
+                  <item>46 Heydon Roſie Crucian Axiom</item>
+                  <item>47 <hi>Flamel</hi>'s Hieroglyphicks with Arteph.</item>
+                  <item>48 <hi>Matthews</hi>'s unlearned Alchymiſt</item>
+                  <item>49 <hi>Blunt</hi>'s Anima Mundi</item>
+                  <item>50 Men before <hi>Adam</hi>
+                  </item>
+                  <item>51 <hi>Salmon</hi>'s Synopſis Medicin.</item>
+                  <item>52 Ld <hi>Hollis</hi> of the Juriſdict. Houſe of Lords</item>
+                  <item>53 <hi>Behns</hi>'s Miſcellany Poems</item>
+                  <item>54 Royal Charter of the City of <hi>London</hi>
+                  </item>
+                  <item>55 <hi>Lucian</hi>'s Dialog. Burleſq. by <hi>C. Cotton</hi>
+                  </item>
+                  <item>56 <hi>Goodman</hi>'s Compaſs Inquiry</item>
+                  <item>57 <hi>Hunt</hi>'s Argument and Poſtſcript</item>
+                  <item>58 <hi>Evelyn</hi> of Navigation and Commerce</item>
+                  <item>59 <hi>Tully</hi>'s Offices, Eng. and Lat.</item>
+                  <item>60 <hi>Taylor</hi>'s Meaſures of Friendſhip</item>
+                  <item>61 <hi>Hopkin</hi>'s Vanity of the world</item>
+                  <item>62 <hi>Culpeper</hi>'s Engliſh Phyſician</item>
+                  <item>63 <hi>Brady</hi>'s anſwer to <hi>Plyt</hi> and <hi>Selden</hi>
+                  </item>
+                  <item>64 Art of curing by Sympathy</item>
+                  <item>65 <hi>Cotton</hi>'s choice Pieces of Antiquity</item>
+                  <item>66 <hi>Meriton</hi>'s Hiſtory of <hi>England</hi>
+                  </item>
+                  <item>67 <hi>Pelyt</hi>'s Rights of the Commcons</item>
+                  <item>68 <hi>W. Gough</hi>'s Hiſt. Ant. of the C. of <hi>Lond.</hi>
+                  </item>
+                  <item>69 <hi>Worthington</hi>'s Duty of Reſignation</item>
+                  <item>70 H. Bible with Common prayer &amp; Apoc.</item>
+                  <item>71 <hi>Barrow</hi>'s Reward of Bounty</item>
+                  <item>72 Miſcellanea Parliamentaria</item>
+                  <item>73 <hi>Glaſſer</hi>'s compleat Chymiſt</item>
+                  <item>74 <hi>Lambard</hi>'s Juſtice with Duty of Conſt.</item>
+                  <item>75 <hi>Willis</hi>'s Art of Memory</item>
+                  <item>76 An Eſſay on Preaching with a Diolog.</item>
+                  <item>77 A General Kalender with the names of the Illuſtrious men</item>
+                  <item>78 Memoirs of the Family of the <hi>Stewarts</hi>
+                  </item>
+                  <item>79 <hi>Sanctorius</hi>'s Rules of health</item>
+                  <item>80 The <hi>London</hi> Jilt in two Parts</item>
+                  <item>81 <hi>Houghton</hi>'s compleat Miner</item>
+                  <item>82 <hi>Digby</hi>'s Simpathet. Power</item>
+                  <item>83 Preſent State of <hi>Aegypt</hi>
+                  </item>
+                  <item>84 <hi>Boyl</hi>'s Eſſay of Nature</item>
+                  <item>85 Queſtion of the Bſhops Rights in Parl.</item>
+                  <item>86 <hi>Le Grand</hi> Man without paſſion</item>
+                  <item>87 Dr. <hi>Stokes</hi>'s private devotions</item>
+                  <item>88 <hi>Evelyn</hi>'s Life of Grand Seniors &amp; Vizers</item>
+                  <item>89 <hi>Grant</hi>'s Obſerv. on the Bills of Mortaliy</item>
+                  <item>90 <hi>Maimborough</hi> prerog. of the Ch. <hi>Rome</hi>
+                  </item>
+                  <item>91 Spaniſh hiſt. bet. <hi>D. John</hi> and <hi>C. Nitand</hi>
+                  </item>
+                  <item>92 <hi>Britan. Languens,</hi> or a diſcourſe of trade</item>
+                  <item>93 <hi>Salmons</hi> eſſay of muſick, <hi>Locks</hi> anſwer to it, with <hi>Salmons</hi> vindication, <hi>Locks</hi> practice of muſick vindicated.</item>
+                  <item>94 <hi>Smith</hi> rem. on the <hi>Turks</hi> Government</item>
+                  <item>95 Right and title of <hi>M.</hi> Q. of <hi>Scots</hi> to the Cr. of <hi>Engl.</hi> by <hi>Philips,</hi> anoth. of the ſame by Bp. of <hi>Roſs,</hi> with a tab. of Geneal.</item>
+                  <item>96 <hi>Franzius</hi> hiſt. of Brutes</item>
+                  <item>97 <hi>Nalſons</hi> Intereſt King and people</item>
+                  <item>98 Laws of Honor concerning Duels</item>
+                  <item>99 <hi>Hogan moganides</hi> or <hi>Dutch Hudibras</hi>
+                  </item>
+                  <item>100 <hi>Carters</hi> Heraldry with figures</item>
+                  <item>101 Choice collection in K. <hi>James</hi> Reign</item>
+                  <item>102 Preſent State of the <hi>Jews</hi>
+                  </item>
+                  <item>103 Diſc. of the Origine of the <hi>Coſſacks</hi>
+                  </item>
+                  <item>104 <hi>Bacon</hi> natural hiſtory of the Winds</item>
+                  <item>106 <hi>Winſtanly</hi>'s Lives of the Poets</item>
+                  <item>107 <hi>Boyl</hi> of final Cauſes</item>
+                  <item>108 A new diſcovery of the Pigmies</item>
+                  <item>109 A Geographic. deſcrip. of <hi>Ireland</hi> by Sir <hi>W. Petty,</hi> with Maps of the Coun.</item>
+                  <item>110 Preſent State of <hi>Holland</hi>
+                  </item>
+                  <item>111 Preſent State of <hi>Ruſſia</hi> with Figures</item>
+                  <item>112 Secret hiſtory of <hi>Juſtinian</hi>
+                  </item>
+                  <item>113 <hi>Broughton</hi>'s hiſtory of Great <hi>Britain</hi>
+                  </item>
+                  <item>114 Life and Death of Sir <hi>Tho. More</hi>
+                  </item>
+                  <item>115 <hi>Sueton.</hi> hiſt. of the 12 Caeſars with fig.</item>
+                  <item>116 <hi>Baratt</hi>'s Travels</item>
+                  <item>117 <hi>Vernon</hi>'s Life of Dr. <hi>Heylin</hi>
+                  </item>
+                  <item>118 <hi>Philips</hi>'s Lives of the Poets</item>
+                  <item>119 <hi>Eutropus</hi>'s Roman hiſtory, Eng</item>
+                  <item>120 A Diſcourſe proving Witches</item>
+                  <item>221 Lives of 10 excellent men</item>
+                  <item>122 <hi>Sharp</hi>'s Adventures in the ſouth ſea</item>
+                  <item>
+                     <pb n="19" facs="tcp:103692:12"/>123 <hi>Ray</hi>'s Collection of Proverbs</item>
+                  <item>124 <hi>Groenvelt</hi> of the ſtone and Gout</item>
+                  <item>125 <hi>Highmore</hi>'s hiſt. of Generation</item>
+                  <item>126 Count <hi>Gabalas</hi> of ſecret Sciences</item>
+                  <item>127 <hi>Philips Math.</hi> Manual</item>
+                  <item>128 <hi>Moreland</hi>'s uſe of 2 math. Inſtruments</item>
+                  <item>129 Life of K. <hi>Charles</hi> II.</item>
+                  <item>130 Preſent ſtate of <hi>Scotland</hi>
+                  </item>
+                  <item>131 <hi>Greaves</hi> deſcript. of the Turks <hi>Seraglio</hi>
+                  </item>
+                  <item>132 Sir <hi>Francis Bacon</hi>'s Eſſays</item>
+                  <item>133 <hi>Hobs</hi> hiſt. of the Civil Wars</item>
+                  <item>134 Hiſt. of <hi>Hungary</hi> and <hi>Tranſylvania</hi>
+                  </item>
+                  <item>135 — of the Pyram. and Prod. of <hi>Egypt</hi>
+                  </item>
+                  <item>136 Natural language of the hand fig.</item>
+                  <item>137 Life of <hi>Abuſſon</hi> Maſter of <hi>Rhodes</hi>
+                  </item>
+                  <item>138 A rich Cabinet of Inventions</item>
+                  <item>139 <hi>Blunt</hi>'s jocular Cuſtoms of Anti-Ten.</item>
+                  <item>140 Firſt ſtate of <hi>Mahumadiſm</hi>
+                  </item>
+                  <item>141 <hi>Boileau</hi> Art of Poetry</item>
+                  <item>142 <hi>Argumentum Anti-Normanicum</hi>
+                  </item>
+                  <item>143 <hi>Hierocles</hi> upon <hi>Pythagoras</hi> golden Verſes</item>
+                  <item>144 <hi>Diſney</hi>'s Tranſcript of Government</item>
+                  <item>* 144 <hi>Bridal</hi> ſhort view of <hi>London</hi>
+                  </item>
+                  <item>145 <hi>Molloy de jure Maritimo</hi>
+                  </item>
+                  <item>146 Gold. Calf which the World adores</item>
+                  <item>147 A Volume of Alman. for the year 1653 one for 1655. one for 1658. one for 1677 two for 1678. two for 1679</item>
+                  <item>148 2 Voll. of Alm. for 1680. 2 for 1681. 2 for 1688. 2 for 689. 2 for 1691. 2 for 1691</item>
+                  <item>149 Epitome of Eccleſiaſtical hiſtory</item>
+                  <item>150 <hi>Herefordſh.</hi> Orchards a pattern for <hi>Eng.</hi>
+                  </item>
+                  <item>151 B. <hi>Valentine</hi>'s laſt Will and Teſtament</item>
+                  <item>152 B. <hi>Hacket</hi>'s Devotions</item>
+                  <item>153 L. <hi>North</hi>'s Paſſages in the long Parl.</item>
+                  <item>154 <hi>German</hi> Divines on the Revelations</item>
+                  <item>*155 L. <hi>Hollis</hi> Bps. right in Parl. 2 Vol.</item>
+                  <item>155 <hi>Henſhaw</hi> Regiſter for the Air</item>
+                  <item>156 Journal of the Houſe of Commons</item>
+                  <item>157 <hi>Littleton</hi>'s Tenures in engl.</item>
+                  <item>158 Mirror of fortune and misfortune</item>
+                  <item>159 Preſent ſt. of <hi>China,</hi> and l. of <hi>Lewis</hi> XIV.</item>
+                  <item>160 <hi>Boteler</hi> 6 dialogues of ſea ſervice</item>
+                  <item>161 Adventures of <hi>Lewis Marot</hi>
+                  </item>
+                  <item>162 <hi>Leiceſter</hi>'s Common-wealth</item>
+                  <item>163 <hi>Roſs</hi> Anſwer to <hi>Hobs Leviathan</hi>
+                  </item>
+                  <item>164 Hiſt. of antient Ceremonies</item>
+                  <item>165 Sir <hi>Walter Raleigh</hi>'s Ghoſt</item>
+                  <item>166 <hi>Hobs</hi> Rudiments of Government</item>
+                  <item>167 <hi>Rapins</hi> Compar. of <hi>Plato</hi> and <hi>Ariſtotle</hi>
+                  </item>
+                  <item>168 The 3 and 4 part of the ſtate of <hi>Engl.</hi>
+                  </item>
+                  <item>169 Experiments of <hi>Paracelſus</hi> and <hi>Lully</hi>
+                  </item>
+                  <item>170 <hi>Heylin</hi>'s help to hiſt. with Coats of Ar.</item>
+                  <item>171 <hi>Howel</hi>'s Inſtructions for travel.</item>
+                  <item>172 Art of War in 2. parts Figures</item>
+                  <item>173 Catal. of Compounders for their Eſt.</item>
+                  <item>174 New deſcript. of the City of <hi>Paris</hi>
+                  </item>
+                  <item>175 <hi>Hartman</hi>'s Chymical ſecrets</item>
+                  <item>176 <hi>Vaughan</hi> of Coin and Coinage</item>
+                  <item>177 <hi>Ward</hi>'s Eſſay of the Soul</item>
+                  <item>178 <hi>Milton</hi>'s Deſcript. of <hi>Moſcovy</hi>
+                  </item>
+                  <item>1 9 <hi>Cuffs</hi> differences of mans Age</item>
+                  <item>180 <hi>Lloyd</hi>'s account of Church Government</item>
+                  <item>181 The Clerks Gram<gap reason="illegible" resp="#UOM" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </item>
+                  <item>182 <hi>Trandeſcant</hi>'s Rarities</item>
+                  <item>183 Rules of Civility</item>
+                  <item>184 <hi>Quarles</hi> Emblems</item>
+                  <item>185 <hi>Smith</hi> Rhetorick unveil'd</item>
+                  <item>186 <hi>Indian</hi> Prince or ſelf taught Philoſ.</item>
+                  <item>187 Military Duties of the Cavalry Fig.</item>
+                  <item>188 15 Comforts of Matrimony</item>
+                  <item>189 Hiſt. of <hi>Venice,</hi> with the uſe of the balating Box exactly deſcribed</item>
+                  <item>190 <hi>Voſſius</hi> of Seas and Winds</item>
+                  <item>191 Judge <hi>Hales</hi> life of <hi>Pomp. Atticus</hi>
+                  </item>
+                  <item>192 B. <hi>Abbot</hi>'s deſcript. of the World</item>
+                  <item>193 Secret hiſt. of the houſe of <hi>Medicis</hi>
+                  </item>
+                  <item>194 Eſſays on ſeveral ſubjects</item>
+                  <item>195 Treatiſe of the Gout and Wom. Diſ.</item>
+                  <item>196 <hi>Philpot</hi> Orig. of <hi>Spaniſh</hi> Monarchy</item>
+                  <item>191 Rom. Forg. or Impoſtors of that Ch.</item>
+                  <item>192 <hi>Heylin France</hi> painted to the Li<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e</item>
+                  <item>193 <hi>Joſſelyn</hi>'s two Voyages to <hi>New-Engl.</hi>
+                  </item>
+                  <item>194 <hi>Sanders</hi> Aſtrol. pract. Phyſick</item>
+                  <item>195 <hi>Baxter</hi>'s principle of Love</item>
+                  <item>196 <hi>Guidot</hi> Diſc. of <hi>Bath</hi> with Figures</item>
+                  <item>197 Life and Phil. of <hi>Epictetus</hi>
+                  </item>
+                  <item>198 Honeſt Ghoſt or voice from the Vaults</item>
+                  <item>199 Sir S. <hi>Moreland</hi>'s Tables of Intereſt</item>
+                  <item>200 <hi>Plato</hi>'s Apol. of <hi>Socrates</hi>
+                  </item>
+                  <item>201 Rites of Funerals, <hi>M. Faelix</hi> Engl.</item>
+                  <item>202 <hi>Eyres</hi> exact Surveyor</item>
+                  <item>203 <hi>D. Cartes</hi> on the Paſſions</item>
+                  <item>204 A Letter to a D<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>iſt</item>
+                  <item>205 <hi>Howel</hi>'s familiar Letters</item>
+                  <item>206 Preſent ſtate of <hi>France</hi>
+                  </item>
+                  <item>207 <hi>Holwel</hi>'s Trigonometry</item>
+                  <item>208 <hi>Evelyn</hi>'s tranſl. of <hi>Rapin</hi> on Gardens</item>
+                  <item>209 Stratagems of War by <hi>Frontinus</hi>
+                  </item>
+                  <item>210 <hi>Moreland</hi>'s <hi>Vade mecum</hi>
+                  </item>
+                  <item>211 <hi>Ray</hi>'s Col. of North <hi>Worde</hi>
+                  </item>
+                  <item>
+                     <pb n="18" facs="tcp:103692:13"/>213 <hi>Walſh</hi> proſpect of the ſtate of <hi>Ireland.</hi>
+                  </item>
+                  <item>214 <hi>Wottons</hi> Works, Lives, <hi>&amp;c.</hi>
+                  </item>
+                  <item>215 Voyage to the North Countries</item>
+                  <item>216 <hi>Raleighs</hi> Eſſays</item>
+                  <item>217 Collect. of the Merchants Names</item>
+                  <item>218 Deſcript. of the F. King's houſe at <hi>Verſ.</hi>
+                  </item>
+                  <item>219 Collect. of 14 treatiſes concerning the Philoſoph. Stone</item>
+                  <item>220 <hi>Paracelſus</hi> of Sympathetick-Mummy.</item>
+                  <item>221 Enchiridion phyſicae reſtitutae</item>
+                  <item>222 <hi>Evelyn</hi> philoſ. Diſc. of Earth</item>
+                  <item>223 Lord <hi>Bacon</hi>'s Remains</item>
+                  <item>224 The King's <gap reason="illegible" resp="#UOM" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>ogative aſſerted</item>
+                  <item>225 <hi>Filmer</hi>'s Works</item>
+                  <item>226 <hi>Trapham</hi> of health in <hi>Jamaica</hi>
+                  </item>
+                  <item>227 Hiſtory of C<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>nt <hi>Zoſimus</hi>
+                  </item>
+                  <item>228 <hi>Cleveland</hi>'s genuine Works</item>
+                  <item>229 <hi>Winſtanly Englands</hi> Worthies</item>
+                  <item>230 <hi>Paſquin</hi>'s Voyage to the other world</item>
+                  <item>231 <hi>Alex. Brome</hi>'s Poems, Songs, <hi>&amp;c.</hi>
+                  </item>
+                  <item>232 <hi>Wither</hi> Abuſes ſtript and whipt</item>
+                  <item>233 Life of Biſhop <hi>Sanderſon</hi>
+                  </item>
+                  <item>234 <hi>J. Hales</hi> of Rarefaction and Condenſ.</item>
+                  <item>235 <hi>Turner</hi>'s Britiſh phyſician</item>
+                  <item>236 <hi>Woodford</hi> on the Canticles and S. Hym.</item>
+                  <item>237 <hi>B. Valentine</hi> Chariot of Antimony</item>
+                  <item>238 <hi>Stokes</hi> on the minor Prophets</item>
+                  <item>239 Anſwer to <hi>Brady</hi> againſt <hi>Petyt</hi>
+                  </item>
+                  <item>240 Maronides, or Virgil Traveſty</item>
+                  <item>241 An eſſay for the Honor of Eng. Gent.</item>
+                  <item>242 Animadverſ. on the gr. and lat. hiſt.</item>
+                  <item>243 <hi>Vilvains</hi> hiſtor. eſſays</item>
+                  <item>244 <hi>Mackenzy,</hi> of the Royal Line of <hi>Scot.</hi>
+                  </item>
+                  <item>245 <hi>Saluſt</hi> tranſlated into Engliſh</item>
+                  <item>246 New Court Songs and Poems</item>
+                  <item>247 Conſiderat. of Free Schools in <hi>Englan.</hi>
+                  </item>
+                  <item>248 <hi>Sherley</hi> Curioſities of Scurvy-Graſs</item>
+                  <item>249 <hi>Charleton</hi> wits of men and Miſt. Vint.</item>
+                  <item>250 Gentlemans Recreations, hunt fiſh. <hi>&amp;c.</hi>
+                  </item>
+                  <item>251 Adminiſtrat. of Card. <hi>Ximenes</hi>
+                  </item>
+                  <item>252 The National Excellencies of <hi>Engl.</hi>
+                  </item>
+                  <item>253 Life of Dr. <hi>J. Thauler</hi>
+                  </item>
+                  <item>254 <hi>Blomes</hi> Deſcr. of <hi>Jamaica,</hi> with a map.</item>
+                  <item>255 <hi>Machivel</hi>'s hiſt. of <hi>Florence</hi>
+                  </item>
+                  <item>256 Ld. <hi>Howard</hi>'s Journey to <hi>Conſtantinople.</hi>
+                  </item>
+                  <item>257 Queens Wells, or nature, of <hi>Tunb</hi>-wat.</item>
+                  <item>258 <hi>Bonatus</hi> Guide to Aſtrologers</item>
+                  <item>259 <hi>Eliot</hi> ancie. book called the Governor.</item>
+                  <item>260 <hi>Heydon</hi> Idea of the Laws, Gov. &amp; Tyr.</item>
+                  <item>261 <hi>J. Bales</hi> Apology againſt the Papiſts.</item>
+                  <item>262 Southworth Evangelium ſydereu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</item>
+                  <item>263 <hi>Cuſanus</hi> Ideot in 4 books</item>
+                  <item>264 <hi>J. Bale</hi> Acts of the Engl. Votaries</item>
+                  <item>265 A Sermon of S. <hi>Chryſoſtom</hi>
+                  </item>
+                  <item>266 <hi>Boyles</hi> Obſerv. on Icy <hi>Noctiluca</hi>
+                  </item>
+                  <item>267 Dr. <hi>Baſire</hi> againſt Sacrilege</item>
+                  <item>268 Hiſt. of the Whores of <hi>Rome.</hi>
+                  </item>
+                  <item>269 The beautifying part of phyſick</item>
+                  <item>270 Civil Wars of <hi>France,</hi> with the Maſſa<g ref="char:EOLhyphen"/>cre of the Proteſtants</item>
+                  <item>271 <hi>Dodona</hi>'s Grove by <hi>Howell</hi> in 2 Vol.</item>
+                  <item>272 <hi>Carys</hi> Farewel to Phyſick Record of Urins</item>
+                  <item>273 <hi>Herle</hi> Wiſdoms <hi>Tripos</hi>
+                  </item>
+                  <item>274 Hiſt. of the Peace at <hi>Nimeguen</hi>
+                  </item>
+                  <item>275 <hi>Spelman</hi> Churches not to be violated.</item>
+                  <item>276 <hi>Baſire</hi> of the <hi>Britannick</hi> Church</item>
+                  <item>277 <hi>Fuller</hi>'s Contempt on the Times.</item>
+                  <item>278 <hi>Osbourn</hi> Memoirs of Q. <hi>Eliz.</hi> &amp; K. <hi>Ja.</hi>
+                  </item>
+                  <item>279 <hi>W. Tindal</hi> Duty of Chriſtians</item>
+                  <item>280 Preſent State of <hi>Ireland,</hi> with a map.</item>
+                  <item>281 Garden of Wiſdom, apothegms, <hi>&amp;c.</hi>
+                  </item>
+                  <item>282 <hi>Burthog</hi> divine Goodneſs vindicated.</item>
+                  <item>283 <hi>Wentworth</hi> advice to Qu. <hi>Elizabeth</hi> for eſtabliſhing her Succeſſor</item>
+                  <item>284 <hi>Johnſon</hi> hiſt. of <hi>Scotland,</hi> in the mino<g ref="char:EOLhyphen"/>rity of King <hi>James</hi>
+                  </item>
+                  <item>285 <hi>Davies</hi> Inſtruction for R. Hiſtory</item>
+                  <item>286 <hi>Rowland</hi> of Wind in man's body</item>
+                  <item>287 <hi>Heylyns</hi> Obſervation of <hi>Leſtrange</hi> hiſt. of King <hi>Charles</hi>
+                  </item>
+                  <item>288 <hi>Chaucers</hi> Ghoſt, a piece of Antiquity.</item>
+                  <item>289 Art of diſtilling Spirits, Oils, <hi>&amp;c.</hi>
+                  </item>
+                  <item>290 Virtues of Coral in Phyſick</item>
+                  <item>291 Biſhop <hi>Latimers</hi> Sermons</item>
+                  <item>292 <hi>Partridge</hi> Art of numbering by Rods.</item>
+                  <item>293 <hi>Molins</hi> of the Muſcles</item>
+                  <item>294 Abridgment of the Scots Chronicle.</item>
+                  <item>295 Anatomy of the Elder Tree</item>
+                  <item>296 <hi>Herodians</hi> Hiſtory of the Roman Caeſ.</item>
+                  <item>297 <hi>Ramſey</hi> Voice of the Stars</item>
+                  <item>298 <hi>Culpeper</hi>'s Aſtrological Work</item>
+                  <item>299 Preſent State of <hi>Italy</hi>
+                  </item>
+                  <item>300 Deſcript. of the Iſland <hi>Faro</hi>
+                  </item>
+                  <item>301 Sir. <hi>C. Heydon</hi> of the Inſt. of the Stars.</item>
+                  <item>302 <hi>Simpſon</hi>'s philoſoph. Dialogues</item>
+                  <item>303 Account of the Conclave at <hi>Rome.</hi>
+                  </item>
+                  <item>304 Duke of <hi>Somerſet</hi>'s Expedition into <hi>Scotland,</hi> in King <hi>Ed.</hi> VI. Reign</item>
+                  <item>305 <hi>Coley</hi>'s Key to Aſtrology, laſt editit. in Turkey Leather.</item>
+               </list>
+            </div>
+            <div type="part">
+               <pb facs="tcp:103692:13"/>
+               <head>Manuſcripts in <hi>Folio.</hi>
+               </head>
+               <list>
+                  <item>1 ST Auguſtinus de concordia &amp; in Romanos in membranis</item>
+                  <item>2 Epiſtles and Goſpels on Vellam</item>
+                  <item>3 Liber ſermonum totius anni in membranis</item>
+                  <item>4 <hi>Boccaces</hi> poetical works of the Vices on Vellam</item>
+                  <item>5 Liber Pſalmor. Davidis cum ampliſſimo comment. in pergam.</item>
+                  <item>6 <hi>Jo. Gower</hi> the old Engliſh Poet, his works on Vellam</item>
+                  <item>7 Volume of old Engliſh Poetry</item>
+                  <item>8 Bartholomeus de Proprietatibus Rerum, Engliſhed</item>
+                  <item>9 Cujuſdam Anonymi Vita Chriſti</item>
+                  <item>10 Miſſale Romanorum in pergam. literis Nitid. illumin.</item>
+                  <item>11 Manuale nitidiſſime in pergam. ſcriptum</item>
+                  <item>12 An old French work in poetry</item>
+               </list>
+            </div>
+            <div type="part">
+               <head>Manuſcripts in <hi>Quarto.</hi>
+               </head>
+               <list>
+                  <item>1 BIblia latina eleganter ſcripta</item>
+                  <item>2 Chriſts Life, with contemp. on it, in old Engliſh on vellam</item>
+                  <item>3 Conditio fratrum Presbyterorum, manuale, Rom. in membram.</item>
+                  <item>4 Tractatus varii theologici antiqui in pergam.</item>
+                  <item>5 Select Obſervations in old French</item>
+                  <item>6 Volume of old Engliſh Poetry on the Epiſtles and Goſpels, on vellam</item>
+                  <item>7 Anonymi cujuſdam poſtillae in membranis</item>
+                  <item>8 Fitz Roy tractatus theolog. de Poenitentia &amp; Confeſſ. &amp;c. in pergam.</item>
+                  <item>9 Old Engliſh Poetical work on ſeveral divine Occaſions, on vellam</item>
+                  <item>10 Petri Bleſenſis expoſitio in Job. ejuſdem Sermones, &amp;c. in pergam.</item>
+                  <item>11 Old Eld Engliſh Poetical Work on Chaſtity, Virginity, &amp;c. on Vellam</item>
+                  <item>12 Liber phyſicorum in membranis, &amp;c.</item>
+                  <item>13 Beati Anſelmi Opera varia</item>
+                  <item>14 Summa de Vitiis cum aliis tract. theolog. in pergam.</item>
+               </list>
+            </div>
+            <div type="part">
+               <head>Manuſcripts in <hi>Octavo.</hi>
+               </head>
+               <list>
+                  <item>1 MAnner of making Confeſſion in the <hi>Romiſh</hi> Church, <hi>&amp;c.</hi>
+                  </item>
+                  <item>2 Manuale pergam. ſcriptum</item>
+                  <item>3 — Idem Nitidiſſime illum. &amp; ſcriptum</item>
+                  <item>4 — Alterum in pergam.</item>
+               </list>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
